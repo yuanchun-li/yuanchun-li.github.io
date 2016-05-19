@@ -1,0 +1,8 @@
+*.pyc
+*.egg-info
+_site
+Gemfile.lock
+dist
+.idea
+
+

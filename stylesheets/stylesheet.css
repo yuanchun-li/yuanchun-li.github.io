@@ -28,6 +28,11 @@ a {
   .btn + .btn {
     margin-left: 1rem; }
 
+.header_block {
+  display: inline-block; }
+  .header_block + .header_block {
+    margin-left: 1rem; }
+
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
@@ -61,11 +66,11 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 3rem 4rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem; } }
+    padding: 2rem 3rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
@@ -113,8 +118,7 @@ a {
   margin-bottom: 1rem;
   font-weight: normal;
   color: #159957; }
-.main-content p {
-  margin-bottom: 1em; }
+
 .main-content code {
   padding: 2px 4px;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -243,3 +247,8 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.margin-small {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
