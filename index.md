@@ -3,7 +3,7 @@ layout: homepage
 title: Yuanchun's homepage
 ---
 
-<table style="border-style:solid">
+<table style="border-style:none">
 <tbody style="border-style:hidden">
 <tr>
   <td><img width="256px" src="{{site.baseurl}}/static/figure/avatar_201603.jpg"></td>
@@ -82,5 +82,5 @@ My current research interests include
 I'm interested in painting and writing, and here are some of my works.
 
 {% for post in site.posts %}
-+ [{{ post.title }}]({{ site.baseurl }}/{{ post.url }}) {{ post.date | date_to_string }}
++ [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) {{ post.date | date_to_string }}
 {% endfor %}
