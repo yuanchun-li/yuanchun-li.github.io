@@ -67,7 +67,7 @@ My current research interests include
 
 ## Publications
 
-|[UbiComp2016]|**Yuanchun Li**, Yao Guo and Xiangqun Chen. "PERUIM: Understanding Mobile Application Privacy With Permission-UI Mapping" UbiComp 2016, Heidelberg, Germany, September 2016.|[PDF]({{site.baseurl}}/static/files/UbiComp2016.pdf)|
+|[UbiComp2016]|**Yuanchun Li**, Yao Guo and Xiangqun Chen. "PERUIM: Understanding Mobile Application Privacy With Permission-UI Mapping" UbiComp 2016, Heidelberg, Germany, September 2016. **Honorable Mention Award!**|[PDF]({{site.baseurl}}/static/files/UbiComp2016.pdf)|
 |[HNW2016]|**Yuanchun Li**, Hanno Lemoine and Hugo Gascon. "Improving Dynamic Analysis Coverage in Android with DroidBot." The Honeynet Project Annual Workshop 2016 (HNW2016)(**POSTER**)|[PDF]({{site.baseurl}}/static/files/HNW2016.pdf)|
 |[ISLPED2015]|**Yuanchun Li**, Yao Guo, Junjun Kong, and Xiangqun Chen. "Fixing sensor-related energy bugs through automated sensing policy instrumentation." 2015 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), pp. 321-326. IEEE, 2015.|[PDF]({{site.baseurl}}/static/files/ISLPED2015.pdf)|
 
