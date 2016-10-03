@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Yuanchun's homepage
+title: Yuanchun Li @ Peking University
 ---
 
 <table style="border-style:none">
@@ -28,7 +28,8 @@ My current research interests include
 
 ## Education
 
-|2014.9 - 2019.7(expected)|[Peking University](http://www.pku.edu.cn/)<br>Ph.D Student. Advisors: [Yao Guo](http://sei.pku.edu.cn/~yaoguo/) and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm)|
+|2016.9 - 2017.9(expected)|[Carnegie Mellon University](http://www.cmu.edu/)<br>Visiting Scholar. Advisors: [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)|
+|2014.9 - 2019.7(expected)|[Peking University](http://www.pku.edu.cn/)<br>Ph.D Student. Advisors: [Yao Guo](http://sei.pku.edu.cn/~yaoguo/), [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm)|
 |2010.9 - 2014.7|[Peking University](http://www.pku.edu.cn/)<br>Undergraduate Student|
 
 ## Current research projects
@@ -54,6 +55,7 @@ My current research interests include
     + PERUIM helps user understand and control permissions in UI level.
     Why UI level? Users understand UI components and know which permissions should be granted to certain UI components.
     For example, users want to grant `LOCATION` permission to a weather widget rather than an advertisement view.
+    This work is published in [UbiComp2016](http://ubicomp.org/ubicomp2016/program/program.php).
 
 + [ReviewIntelligence](https://github.com/ylimit/app-review-search)
     + ReviewIntelligence mines comparative relations between apps from large-scale app store reviews.
@@ -65,8 +67,13 @@ My current research interests include
 
 ## Publications
 
+|[UbiComp2016]|**Yuanchun Li**, Yao Guo and Xiangqun Chen. "PERUIM: Understanding Mobile Application Privacy With Permission-UI Mapping" UbiComp 2016, Heidelberg, Germany, September 2016.|[PDF]({{site.baseurl}}/static/files/UbiComp2016.pdf)|
 |[HNW2016]|**Yuanchun Li**, Hanno Lemoine and Hugo Gascon. "Improving Dynamic Analysis Coverage in Android with DroidBot." The Honeynet Project Annual Workshop 2016 (HNW2016)(**POSTER**)|[PDF]({{site.baseurl}}/static/files/HNW2016.pdf)|
-|[ISLPED15]|**Yuanchun Li**, Yao Guo, Junjun Kong, and Xiangqun Chen. "Fixing sensor-related energy bugs through automated sensing policy instrumentation." 2015 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), pp. 321-326. IEEE, 2015.|[PDF]({{site.baseurl}}/static/files/ISLPED15.pdf)|
+|[ISLPED2015]|**Yuanchun Li**, Yao Guo, Junjun Kong, and Xiangqun Chen. "Fixing sensor-related energy bugs through automated sensing policy instrumentation." 2015 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), pp. 321-326. IEEE, 2015.|[PDF]({{site.baseurl}}/static/files/ISLPED2015.pdf)|
+
+## Awards
+
++ UbiComp 2016 Honorable Mention Award
 
 ## Teaching
 
