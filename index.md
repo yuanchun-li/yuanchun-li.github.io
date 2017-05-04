@@ -56,8 +56,6 @@ My current research interests include
 
 - Haoyu Wang, **Yuanchun Li**, Yao Guo, Yuvraj Agarwal, Jason Hong. "Understanding the Purpose of Permission Use in Mobile Apps." ACM Transactions on Information Systems (**TOIS**) (accepted).
 
-- **Yuanchun Li**, Ziyue Yang, Yao Guo and Xiangqun Chen. "DroidBot: A Lightweight UI-Guided Test Input Generator for Android." **ICSE 2017 Demo Track**. Buenos Ares, Argentina, May 2017. [PDF]({{site.baseurl}}/static/files/DroidBot_ICSE2017.pdf)
-
 - Toby Jia-Jun Li, **Yuanchun Li**, Fanglin Chen and Brad A. Myers. "Programming IoT Devices by Demonstration Using Mobile Apps." To appear in Proceedings of the International Symposium on EndUser Development (**IS-EUD 2017**).
 
 - **Yuanchun Li**, Yao Guo and Xiangqun Chen. "PERUIM: Understanding Mobile Application Privacy With Permission-UI Mapping." **UbiComp 2016**, Heidelberg, Germany, September 2016. **Honorable Mention Award!** [PDF]({{site.baseurl}}/static/files/UbiComp2016.pdf)
