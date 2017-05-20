@@ -56,17 +56,21 @@ My current research interests include
 
 - Haoyu Wang, **Yuanchun Li**, Yao Guo, Yuvraj Agarwal, Jason Hong. "Understanding the Purpose of Permission Use in Mobile Apps." ACM Transactions on Information Systems (**TOIS**) (accepted).
 
+- **Yuanchun Li**, Ziyue Yang, Yao Guo and Xiangqun Chen. "DroidBot: A Lightweight UI-Guided Test Input Generator for Android." **ICSE 2017 Demo Track**. Buenos Ares, Argentina, May 2017. [PDF]({{site.baseurl}}/static/files/DroidBot_ICSE2017.pdf)
+
 - Toby Jia-Jun Li, **Yuanchun Li**, Fanglin Chen and Brad A. Myers. "Programming IoT Devices by Demonstration Using Mobile Apps." To appear in Proceedings of the International Symposium on EndUser Development (**IS-EUD 2017**).
 
 - **Yuanchun Li**, Yao Guo and Xiangqun Chen. "PERUIM: Understanding Mobile Application Privacy With Permission-UI Mapping." **UbiComp 2016**, Heidelberg, Germany, September 2016. **Honorable Mention Award!** [PDF]({{site.baseurl}}/static/files/UbiComp2016.pdf)
 
 - **Yuanchun Li**, Yao Guo, Junjun Kong, and Xiangqun Chen. "Fixing sensor-related energy bugs through automated sensing policy instrumentation." 2015 IEEE/ACM International Symposium on Low Power Electronics and Design (**ISLPED 2016**), pp. 321-326. IEEE, 2015. [PDF]({{site.baseurl}}/static/files/ISLPED2015.pdf)
 
-## Awards
+## Honors, Grants and Awards
 
-+ UbiComp 2016 Best Paper Honorable Mention Award
 + 2016 Bosch/Bezirk Internet of Things Hackathon - 1st place ($1000)
++ UbiComp 2016 Best Paper Honorable Mention Award
++ Google Summer of Code 2016 ($5500)
 + Merit Student at Peking University 2016
++ Google Summer of Code 2015 ($5500)
 
 ## Teaching
 
