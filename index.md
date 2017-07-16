@@ -19,38 +19,29 @@ title: Yuanchun Li @ Peking University
 </tbody>
 </table>
 
-I'm a PhD Student in the School of Electronics Engineering and Computer Science (EECS) at Peking University (PKU).
-My current research interests include
-[mobile computing](https://en.wikipedia.org/wiki/Mobile_computing),
-[mobile security](https://en.wikipedia.org/wiki/Mobile_security) and
-[program analysis](https://en.wikipedia.org/wiki/Program_analysis).
+Yuanchun Li a PhD Student in the School of Electronics Engineering and Computer Science (EECS) at Peking University (PKU).
+He's research interests lie generally in the fields of ubiquitous computing, security and privacy, and software engineering.
+Specifically, he is dedicated to creating software systems that can make our digital world more secure and privacy-friendly.
 
 ## Education
 
-|2016.9 - 2017.9(expected)|[Carnegie Mellon University](http://www.cmu.edu/)<br>Visiting Scholar. Advisors: [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)|
 |2014.9 - 2019.7(expected)|[Peking University](http://www.pku.edu.cn/)<br>Ph.D Student. Advisors: [Yao Guo](http://sei.pku.edu.cn/~yaoguo/), [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm)|
+|2016.9 - 2017.9(expected)|[Carnegie Mellon University](http://www.cmu.edu/)<br>Visiting Scholar. Advisors: [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)|
 |2010.9 - 2014.7|[Peking University](http://www.pku.edu.cn/)<br>Undergraduate Student|
 
-## Current research
+## Featured projects
 
-+ **Privacy-aware Programming**
-    + [PrivacyStreams](https://privacystreams.github.io) is a framework for privacy-friendly personal data processing.
-    It makes it much easier for Android app developers to access and process personal data.
++ [PrivacyStreams](https://github.com/PrivacyStreams/PrivacyStreams) 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
+    + A framework for privacy-friendly personal data processing.
+    It makes it much easier for app developers to access and process personal data.
     As a positive side-effect, it makes the data processing pipeline more transparent.
 
-+ **Privacy-aware UI for users**
-    + [PERUIM](https://github.com/ylimit/uiAnalysis) is aimed to help Android app users understand permissions in UI level.
-    Why UI level? Because on one hand UI is easy for users to understand, and on the other hand UI is related to app's actual behavior (code).
-    For example, users want to grant `LOCATION` permission to a weather widget rather than an advertisement view.
-
-+ **App Market Intelligence**
-    + [Comparative Review Analysis](https://github.com/ylimit/app-review-search)
-    In this project, we mine competitive relations between apps from large-scale app store reviews.
-    The comparative relations can help users find better apps and help developers improve their apps.
-
-+ **Static Analysis and Dynamic Analysis**
-    + [DroidBot](https://github.com/ylimit/droidbot) - An automated test input generation tool in Android mainly used for malware detection.
-    This work is under the support of [the Honeynet Project](http://honeynet.org/node/1317) and [Google Summer of Code](https://developers.google.com/open-source/gsoc/).
++ [DroidBot](https://github.com/honeynet/droidbot) 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/honeynet/droidbot" data-show-count="true" aria-label="Star honeynet/droidbot on GitHub">Star</a>
+    + An automated test input generator in Android mainly used for running dynamic analysis for Android apps.
     
 ## Publications
 
