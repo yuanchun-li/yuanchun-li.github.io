@@ -9,7 +9,7 @@ title: Yuanchun Li @ Peking University
   <td><img width="256px" src="{{site.baseurl}}/static/figure/avatar_201603.jpg"></td>
   <td>
     <h1>Yuanchun Li (李元春)</h1>
-    <p>PhD student</p>
+    <p>PhD Student</p>
     <p class="margin-small"><a href="http://eecs.pku.edu.cn/">School of Electronics Engineering and Computer Science</a></p>
     <p class="margin-small"><a href="http://www.pku.edu.cn/">Peking University</a></p>
     <p>yuanchun.li [AT] pku [dot] edu [dot] cn</p>
@@ -19,9 +19,9 @@ title: Yuanchun Li @ Peking University
 </tbody>
 </table>
 
-Yuanchun Li a PhD Student in the School of Electronics Engineering and Computer Science (EECS) at Peking University (PKU).
+Yuanchun Li is a PhD Student in the School of Electronics Engineering and Computer Science (EECS) at Peking University (PKU).
 He's research interests lie generally in the fields of ubiquitous computing, security and privacy, and software engineering.
-Specifically, he is dedicated to creating software systems that can make our digital world more secure and privacy-friendly.
+He is dedicated to creating software systems that can make our digital world more secure and privacy-friendly.
 
 ## Education
 
