@@ -39,7 +39,7 @@ He is dedicated to creating software systems that can make our digital world mor
 + [DroidBot](https://github.com/honeynet/droidbot) 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/honeynet/droidbot" data-show-count="true" aria-label="Star honeynet/droidbot on GitHub">Star</a>
-    + An automated test input generator in Android mainly used for running dynamic analysis for Android apps.
+    + An automated test input generator in Android.
     
 ## Publications
 
