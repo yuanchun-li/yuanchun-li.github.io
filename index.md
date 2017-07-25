@@ -35,8 +35,6 @@ He is dedicated to creating software systems that can make our digital world mor
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
     + A framework for privacy-friendly personal data processing.
-    It makes it much easier for app developers to access and process personal data.
-    As a positive side-effect, it makes the data processing pipeline more transparent.
 
 + [DroidBot](https://github.com/honeynet/droidbot) 
 <!-- Place this tag where you want the button to render. -->
