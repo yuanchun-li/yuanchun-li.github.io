@@ -9,8 +9,8 @@ title: Yuanchun Li @ Peking University
   <td><img width="256px" src="{{site.baseurl}}/static/figure/avatar_201603.jpg"></td>
   <td>
     <h1>Yuanchun Li (李元春)</h1>
-    <p>PhD Student @ <a href="http://www.pku.edu.cn/">Peking University</a></p>
-    <p>Research interests: ubiquitous computing, security and privacy, and software engineering</p>
+    <p>PhD Student</p>
+    <p>EECS, Peking University</p>
     <p>yuanchun.li [AT] pku [dot] edu [dot] cn</p>
   </td>
 
