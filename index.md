@@ -20,7 +20,7 @@ title: Yuanchun Li @ Peking University
 </table>
 
 Yuanchun Li is a PhD Student in the School of Electronics Engineering and Computer Science (EECS) at Peking University (PKU).
-He's research interests lie generally in the fields of ubiquitous computing, security and privacy, and software engineering.
+His research interests lie in the fields of ubiquitous computing, security and privacy, and software engineering.
 He is dedicated to creating software systems that can make our digital world more secure and privacy-friendly.
 
 ## Education
