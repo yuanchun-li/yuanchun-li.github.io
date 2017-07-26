@@ -18,24 +18,18 @@ title: Yuanchun Li @ Peking University
 </tbody>
 </table>
 
-My research interests lie in the fields of mobile computing, security and privacy, and software engineering.
-
 I'm a Ph.D student in the Institute of Software at Peking University, advised by 
 [Yao Guo](http://sei.pku.edu.cn/~yaoguo/),
 [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun)
 and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm).
 I was also advised by [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)
-in the Human-Computer Interaction Institute at Carnegie Mellon University.
+when I was a visiting student in the Human-Computer Interaction Institute at Carnegie Mellon University.
+My research interests lie in the fields of mobile computing, security and privacy, and software engineering.
 
-## Education
-
-|2014.9 - 2019.7(expected)|[Peking University](http://www.pku.edu.cn/)<br>Ph.D Student. Advisors: [Yao Guo](http://sei.pku.edu.cn/~yaoguo/), [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm)|
-|2016.9 - 2017.9(expected)|[Carnegie Mellon University](http://www.cmu.edu/)<br>Visiting Scholar. Advisors: [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)|
-|2010.9 - 2014.7|[Peking University](http://www.pku.edu.cn/)<br>Undergraduate Student|
     
 ## Publications
 
-- **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." UbiComp 2017. (accepted) [PDF]
+- **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." UbiComp 2017. (accepted) [PDF]
 
     [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/) <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
 
@@ -43,7 +37,7 @@ in the Human-Computer Interaction Institute at Carnegie Mellon University.
 
     [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/)
 
-- Haoyu Wang, **Yuanchun Li**, Yao Guo, Yuvraj Agarwal, Jason Hong. "Understanding the Purpose of Permission Use in Mobile Apps." ACM Transactions on Information Systems (TOIS) (accepted). [PDF]
+- Haoyu Wang, **Yuanchun Li**, Yao Guo, Yuvraj Agarwal, Jason I. Hong. "Understanding the Purpose of Permission Use in Mobile Apps." ACM Transactions on Information Systems (TOIS) (accepted). [PDF]
 
     [![TOIS2017](https://img.shields.io/badge/TOIS-2017-brightgreen.svg)](http://tois.acm.org/)
 
