@@ -37,7 +37,7 @@ My research interests lie in the fields of mobile computing, security and privac
 
     [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/)
 
-- Haoyu Wang, **Yuanchun Li**, Yao Guo, Yuvraj Agarwal, Jason I. Hong. "Understanding the Purpose of Permission Use in Mobile Apps." ACM Transactions on Information Systems (TOIS) (accepted). [PDF]
+- Haoyu Wang, **Yuanchun Li**, Yao Guo, Yuvraj Agarwal, Jason I. Hong. "Understanding the Purpose of Permission Use in Mobile Apps." ACM Transactions on Information Systems (TOIS).
 
     [![TOIS2017](https://img.shields.io/badge/TOIS-2017-brightgreen.svg)](http://tois.acm.org/)
 
@@ -45,7 +45,7 @@ My research interests lie in the fields of mobile computing, security and privac
 
     [![ICSE-C2017](https://img.shields.io/badge/ICSE--C-2017-brightgreen.svg)](http://icse2017.gatech.edu/) <a class="github-button" href="https://github.com/honeynet/droidbot" data-show-count="true" aria-label="Star honeynet/droidbot on GitHub">Star</a>
 
-- Toby Jia-Jun Li, **Yuanchun Li**, Fanglin Chen and Brad A. Myers. "Programming IoT Devices by Demonstration Using Mobile Apps." International Symposium on End User Development (IS-EUD 2017). LNCS, vol. 10303. [[PDF]](http://toby.li/wp-content/uploads/2017/01/TobyLi-CHI2017-Sugilite.pdf)
+- Toby Jia-Jun Li, **Yuanchun Li**, Fanglin Chen and Brad A. Myers. "Programming IoT Devices by Demonstration Using Mobile Apps." International Symposium on End User Development (IS-EUD 2017).
 
     [![IS-EUD2017](https://img.shields.io/badge/IS--EUD-2017-brightgreen.svg)](http://iseud2017.tue.nl/) [![Best Paper Award](https://img.shields.io/badge/Award-Best%20Paper-orange.svg)]()
 
