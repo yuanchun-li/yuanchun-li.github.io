@@ -8,9 +8,9 @@ title: Yuanchun Li @ Peking University
 <tr>
   <td><img width="256px" src="{{site.baseurl}}/static/figure/avatar_201603.jpg"></td>
   <td>
-    <h1>Yuanchun Li (李元春)</h1>
+    <h2>Yuanchun Li 李元春</h2>
     <p>PhD Student</p>
-    <p>EECS, Peking University</p>
+    <p>Institute of Software, School of EECS, Peking University</p>
     <p>yuanchun.li [AT] pku [dot] edu [dot] cn</p>
   </td>
 
@@ -18,39 +18,50 @@ title: Yuanchun Li @ Peking University
 </tbody>
 </table>
 
+My research interests lie in the fields of mobile computing, security and privacy, and software engineering.
+
+I'm a Ph.D student in the Institute of Software at Peking University, advised by 
+[Yao Guo](http://sei.pku.edu.cn/~yaoguo/),
+[Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun)
+and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm).
+I was also advised by [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)
+in the Human-Computer Interaction Institute at Carnegie Mellon University.
+
 ## Education
 
 |2014.9 - 2019.7(expected)|[Peking University](http://www.pku.edu.cn/)<br>Ph.D Student. Advisors: [Yao Guo](http://sei.pku.edu.cn/~yaoguo/), [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm)|
 |2016.9 - 2017.9(expected)|[Carnegie Mellon University](http://www.cmu.edu/)<br>Visiting Scholar. Advisors: [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)|
 |2010.9 - 2014.7|[Peking University](http://www.pku.edu.cn/)<br>Undergraduate Student|
-
-## Featured projects
-
-+ [PrivacyStreams](https://github.com/PrivacyStreams/PrivacyStreams) 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
-    + A framework for privacy-friendly personal data processing.
-
-+ [DroidBot](https://github.com/honeynet/droidbot) 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/honeynet/droidbot" data-show-count="true" aria-label="Star honeynet/droidbot on GitHub">Star</a>
-    + An automated test input generator in Android.
     
 ## Publications
 
-- **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." **UbiComp 2017**. (accepted)
+- **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." UbiComp 2017. (accepted) [PDF]
 
-- **Yuanchun Li**, Baoxiong Jia, Yao Guo, Xiangqun Chen. "Mining User Reviews for Mobile App Comparisons." **UbiComp 2017**. (accepted)
+    [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/) <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
 
-- Haoyu Wang, **Yuanchun Li**, Yao Guo, Yuvraj Agarwal, Jason Hong. "Understanding the Purpose of Permission Use in Mobile Apps." ACM Transactions on Information Systems (**TOIS**) (accepted).
+- **Yuanchun Li**, Baoxiong Jia, Yao Guo, Xiangqun Chen. "Mining User Reviews for Mobile App Comparisons." UbiComp 2017. (accepted) [PDF]
 
-- **Yuanchun Li**, Ziyue Yang, Yao Guo and Xiangqun Chen. "DroidBot: A Lightweight UI-Guided Test Input Generator for Android." **ICSE 2017 Demo Track**. Buenos Aires, Argentina, May 2017. [PDF]({{site.baseurl}}/static/files/DroidBot_ICSE2017.pdf)
+    [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/)
 
-- Toby Jia-Jun Li, **Yuanchun Li**, Fanglin Chen and Brad A. Myers. "Programming IoT Devices by Demonstration Using Mobile Apps." International Symposium on End User Development (**IS-EUD 2017**). LNCS, vol. 10303. **Best Paper Award.**
+- Haoyu Wang, **Yuanchun Li**, Yao Guo, Yuvraj Agarwal, Jason Hong. "Understanding the Purpose of Permission Use in Mobile Apps." ACM Transactions on Information Systems (TOIS) (accepted). [PDF]
 
-- **Yuanchun Li**, Yao Guo and Xiangqun Chen. "PERUIM: Understanding Mobile Application Privacy With Permission-UI Mapping." **UbiComp 2016**, Heidelberg, Germany, September 2016. **Honorable Mention Award.** [PDF]({{site.baseurl}}/static/files/UbiComp2016.pdf)
+    [![TOIS2017](https://img.shields.io/badge/TOIS-2017-brightgreen.svg)](http://tois.acm.org/)
 
-- **Yuanchun Li**, Yao Guo, Junjun Kong, and Xiangqun Chen. "Fixing sensor-related energy bugs through automated sensing policy instrumentation." 2015 IEEE/ACM International Symposium on Low Power Electronics and Design (**ISLPED 2016**), pp. 321-326. IEEE, 2015. [PDF]({{site.baseurl}}/static/files/ISLPED2015.pdf)
+- **Yuanchun Li**, Ziyue Yang, Yao Guo and Xiangqun Chen. "DroidBot: A Lightweight UI-Guided Test Input Generator for Android." ICSE 2017 Demo Track. Buenos Aires, Argentina, May 2017. [[PDF]]({{site.baseurl}}/static/files/DroidBot_ICSE2017.pdf)
+
+    [![ICSE-C2017](https://img.shields.io/badge/ICSE--C-2017-brightgreen.svg)](http://icse2017.gatech.edu/) <a class="github-button" href="https://github.com/honeynet/droidbot" data-show-count="true" aria-label="Star honeynet/droidbot on GitHub">Star</a>
+
+- Toby Jia-Jun Li, **Yuanchun Li**, Fanglin Chen and Brad A. Myers. "Programming IoT Devices by Demonstration Using Mobile Apps." International Symposium on End User Development (IS-EUD 2017). LNCS, vol. 10303. [[PDF]](http://toby.li/wp-content/uploads/2017/01/TobyLi-CHI2017-Sugilite.pdf)
+
+    [![IS-EUD2017](https://img.shields.io/badge/IS--EUD-2017-brightgreen.svg)](http://iseud2017.tue.nl/) [![Best Paper Award](https://img.shields.io/badge/Award-Best%20Paper-orange.svg)]()
+
+- **Yuanchun Li**, Yao Guo and Xiangqun Chen. "PERUIM: Understanding Mobile Application Privacy With Permission-UI Mapping." UbiComp 2016, Heidelberg, Germany, September 2016. [[PDF]]({{site.baseurl}}/static/files/UbiComp2016.pdf)
+
+    [![UbiComp2016](https://img.shields.io/badge/UbiComp-2016-brightgreen.svg)](http://ubicomp.org/ubicomp2016/) [![Honorable Mention Award](https://img.shields.io/badge/Award-Honorable%20Mention-orange.svg)]()
+
+- **Yuanchun Li**, Yao Guo, Junjun Kong, and Xiangqun Chen. "Fixing sensor-related energy bugs through automated sensing policy instrumentation." 2015 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED 2016), pp. 321-326. IEEE, 2015. [[PDF]]({{site.baseurl}}/static/files/ISLPED2015.pdf)
+
+    [![ISLPED2015](https://img.shields.io/badge/ISLPED-2015-brightgreen.svg)](http://islped.org/2015/)
 
 ## Honors, Grants and Awards
 

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: homepage
 title: Past projects
 category: project
 ---
+
+## Past Projects
 
 + [HybridFlow](https://github.com/ylimit/HybridFlow) - 
 Many modern Android apps are hybrid, for example developed with multiple languages (Java + HTML for instance),
