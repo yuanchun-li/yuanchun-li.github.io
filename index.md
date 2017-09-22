@@ -29,11 +29,11 @@ My research interests lie in the fields of mobile computing, security and privac
     
 ## Publications
 
-- **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." UbiComp 2017. (accepted) [PDF]
+- **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_PrivacyStreams.pdf)
 
     [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/) <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
 
-- **Yuanchun Li**, Baoxiong Jia, Yao Guo, Xiangqun Chen. "Mining User Reviews for Mobile App Comparisons." UbiComp 2017. (accepted) [PDF]
+- **Yuanchun Li**, Baoxiong Jia, Yao Guo, Xiangqun Chen. "Mining User Reviews for Mobile App Comparisons." UbiComp 2017. IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_mining-user-reviews.pdf)
 
     [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/)
 
@@ -69,7 +69,7 @@ My research interests lie in the fields of mobile computing, security and privac
 ## Teaching
 
 * Operating System Labs (Honor track). TA
-    * Fall 2014, Spring 2015, Fall 2015
+    * Fall 2014, Spring 2015, Fall 2015, Spring 2016
 * Compiler Techniques. TA
     * Spring 2015
 * Introduction to Computer System. TA
