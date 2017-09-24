@@ -33,7 +33,7 @@ My research interests lie in the fields of mobile computing, security and privac
 
     [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/) <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
 
-- **Yuanchun Li**, Baoxiong Jia, Yao Guo, Xiangqun Chen. "Mining User Reviews for Mobile App Comparisons." UbiComp 2017. IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_mining-user-reviews.pdf)
+- **Yuanchun Li**, Baoxiong Jia, Yao Guo, Xiangqun Chen. "Mining User Reviews for Mobile App Comparisons." IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_mining-user-reviews.pdf)
 
     [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/)
 
