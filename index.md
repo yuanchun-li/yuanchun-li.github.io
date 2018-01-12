@@ -60,7 +60,7 @@ My research interests lie in the fields of mobile computing, security and privac
 
 ## Honors, Grants and Awards
 
-+ National Scholarship
++ National Scholarship 2017
 + IS-EUD 2017 Best Paper Award
 + 2016 Bosch/Bezirk Internet of Things Hackathon - 1st place ($1000)
 + UbiComp 2016 Best Paper Honorable Mention Award
