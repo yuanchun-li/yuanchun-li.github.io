@@ -13,6 +13,7 @@ title: Yuanchun Li @ Peking University
     <p>Institute of Software, School of EECS, Peking University</p>
     <p>yuanchun.li [AT] pku [dot] edu [dot] cn</p>
     <p><a href="{{site.baseurl}}/static/files/yuanchun_cv_en.pdf">Download my CV</a></p>
+    <p><a href="{{site.baseurl}}/static/files/yuanchun_cv_zh.pdf">中文简历</a></p>
   </td>
 
 </tr>
