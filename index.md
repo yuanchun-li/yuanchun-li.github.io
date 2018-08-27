@@ -31,6 +31,8 @@ My research interests lie in the fields of mobile computing, security and privac
     
 ## Publications
 
+- **Yuanchun Li**, Ziyue Yang, Yao Guo, Xiangqun Chen, Yuvraj Agarwal, and Jason Hong. "Automated Extraction of Personal Knowledge from Smartphone Push Notifications." arXiv preprint arXiv:1808.02013
+
 - **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_PrivacyStreams.pdf)
 
     [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/) <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
