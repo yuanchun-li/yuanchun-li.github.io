@@ -34,11 +34,19 @@ My research interests lie in the fields of ubiquitous computing, security and pr
 
 - Bingyan Liu, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "PMC: A Privacy-preserving Deep Learning Model Customization Framework for Edge Computing". IMWUT aka. UbiComp 2020.
 
+    [![IMWUT2020](https://img.shields.io/badge/IMWUT-2020-brightgreen.svg)](https://dl.acm.org/journal/imwut)
+
 - Ziqi Zhang, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "Dynamic Slicing for Deep Neural Networks." ESEC/FSE 2020.
 
-- **Yuanchun Li**, Ziyue Yang, Yao Guo, Xiangqun Chen. "Humanoid: a deep learning-based approach to automated black-box Android app testing." ASE 2020 (Tool Demo).
+    [![FSE2020](https://img.shields.io/badge/FSE-2020-brightgreen.svg)](https://2020.esec-fse.org/details/fse-2020-papers/109/Dynamic-Slicing-for-Deep-Neural-Networks)
+
+- **Yuanchun Li**, Ziyue Yang*, Yao Guo, Xiangqun Chen. "Humanoid: a deep learning-based approach to automated black-box Android app testing." ASE 2019 (Tool Demo).
+
+    [![ASE2019](https://img.shields.io/badge/ASE-2019-brightgreen.svg)](https://2019.ase-conferences.org/details/ase-2019-Demonstrations/23/Humanoid-A-Deep-Learning-based-Approach-to-Automated-Black-box-Android-App-Testing) <a class="github-button" href="https://github.com/yzygitzh/Humanoid" data-show-count="true" aria-label="Star Humanoid on GitHub">Star</a>
 
 - **Yuanchun Li**, Ziyue Yang, Yao Guo, Xiangqun Chen, Yuvraj Agarwal, and Jason Hong. "Automated Extraction of Personal Knowledge from Smartphone Push Notifications." BigData 2018.
+
+    [![BigData2018](https://img.shields.io/badge/BigData-2018-brightgreen.svg)](http://cci.drexel.edu/bigdata/bigdata2018/)
 
 - **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_PrivacyStreams.pdf)
 
