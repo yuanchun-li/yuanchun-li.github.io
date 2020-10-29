@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Yuanchun Li @ Peking University
+title: Yuanchun Li's homepage
 ---
 
 <table style="border-style:none">
@@ -9,9 +9,9 @@ title: Yuanchun Li @ Peking University
   <td><img width="256px" src="{{site.baseurl}}/static/figure/avatar_201603.jpg"></td>
   <td>
     <h2>Yuanchun Li 李元春</h2>
-    <p>PhD Student</p>
-    <p>Institute of Software, School of EECS, Peking University</p>
-    <p>yuanchun.li [AT] pku [dot] edu [dot] cn</p>
+    <p>Researcher</p>
+    <p>Microsoft Research</p>
+    <p>li.yuanchun [AT] foxmail [dot] com</p>
     <p><a href="{{site.baseurl}}/static/files/yuanchun_cv_en.pdf">Download my CV</a>
     (<a href="{{site.baseurl}}/static/files/yuanchun_cv_zh.pdf">中文版</a>)</p>
   </td>
@@ -20,18 +20,25 @@ title: Yuanchun Li @ Peking University
 </tbody>
 </table>
 
-I'm a Ph.D student in the Institute of Software at Peking University, advised by 
-[Yao Guo](http://sei.pku.edu.cn/~yaoguo/),
-[Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun)
-and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm).
+I'm now a researcher at Microsoft Research Asia (MSRA).
+I was graduated from Peking University, under the supervision of [Yao Guo](http://sei.pku.edu.cn/~yaoguo/) and
+[Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun).
 I was also advised by [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)
 when I was a visiting student in the Human-Computer Interaction Institute at Carnegie Mellon University.
-My research interests lie in the fields of mobile computing, security and privacy, and software engineering.
+My research interests lie in the fields of ubiquitous computing, security and privacy, and software engineering.
 
     
 ## Publications
 
-- **Yuanchun Li**, Ziyue Yang, Yao Guo, Xiangqun Chen, Yuvraj Agarwal, and Jason Hong. "Automated Extraction of Personal Knowledge from Smartphone Push Notifications." arXiv preprint arXiv:1808.02013
+(* indicates co-primary and/or corresponding author)
+
+- Bingyan Liu, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "PMC: A Privacy-preserving Deep Learning Model Customization Framework for Edge Computing". IMWUT aka. UbiComp 2020.
+
+- Ziqi Zhang, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "Dynamic Slicing for Deep Neural Networks." ESEC/FSE 2020.
+
+- **Yuanchun Li**, Ziyue Yang, Yao Guo, Xiangqun Chen. "Humanoid: a deep learning-based approach to automated black-box Android app testing." ASE 2020 (Tool Demo).
+
+- **Yuanchun Li**, Ziyue Yang, Yao Guo, Xiangqun Chen, Yuvraj Agarwal, and Jason Hong. "Automated Extraction of Personal Knowledge from Smartphone Push Notifications." BigData 2018.
 
 - **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_PrivacyStreams.pdf)
 
@@ -45,7 +52,7 @@ My research interests lie in the fields of mobile computing, security and privac
 
     [![TOIS2017](https://img.shields.io/badge/TOIS-2017-brightgreen.svg)](http://tois.acm.org/)
 
-- **Yuanchun Li**, Ziyue Yang, Yao Guo and Xiangqun Chen. "DroidBot: A Lightweight UI-Guided Test Input Generator for Android." ICSE 2017 Demo Track. Buenos Aires, Argentina, May 2017. [[PDF]]({{site.baseurl}}/static/files/DroidBot_ICSE2017.pdf)
+- **Yuanchun Li**, Ziyue Yang, Yao Guo and Xiangqun Chen. "DroidBot: A Lightweight UI-Guided Test Input Generator for Android." ICSE 2017 (Tool Demo). Buenos Aires, Argentina, May 2017. [[PDF]]({{site.baseurl}}/static/files/DroidBot_ICSE2017.pdf)
 
     [![ICSE-C2017](https://img.shields.io/badge/ICSE--C-2017-brightgreen.svg)](http://icse2017.gatech.edu/) <a class="github-button" href="https://github.com/honeynet/droidbot" data-show-count="true" aria-label="Star honeynet/droidbot on GitHub">Star</a>
 
