@@ -36,21 +36,21 @@ My research interests lie in the intersection of ubiquitous computing (UbiComp),
 
     [![UbiComp2016](https://img.shields.io/badge/UbiComp-2016-brightgreen.svg)](http://ubicomp.org/ubicomp2016/) [![Honorable Mention Award](https://img.shields.io/badge/Award-Honorable%20Mention-orange.svg)]()
 
-- **Yuanchun Li**, Ziyue Yang*, Yao Guo, Xiangqun Chen. "Humanoid: a deep learning-based approach to automated black-box Android app testing." ASE 2019 (Tool Demo).
+- **Yuanchun Li**, Ziyue Yang*, Yao Guo, Xiangqun Chen. "Humanoid: a deep learning-based approach to automated black-box Android app testing." ASE 2019 (Tool Demo). <a class="github-button" href="https://github.com/yzygitzh/Humanoid" data-show-count="true" aria-label="Star Humanoid on GitHub">Star</a>
 
-    [![ASE2019](https://img.shields.io/badge/ASE-2019-brightgreen.svg)](https://2019.ase-conferences.org/details/ase-2019-Demonstrations/23/Humanoid-A-Deep-Learning-based-Approach-to-Automated-Black-box-Android-App-Testing) <a class="github-button" href="https://github.com/yzygitzh/Humanoid" data-show-count="true" aria-label="Star Humanoid on GitHub">Star</a>
+    [![ASE2019](https://img.shields.io/badge/ASE-2019-brightgreen.svg)](https://2019.ase-conferences.org/details/ase-2019-Demonstrations/23/Humanoid-A-Deep-Learning-based-Approach-to-Automated-Black-box-Android-App-Testing)
 
 - **Yuanchun Li**, Ziyue Yang, Yao Guo, Xiangqun Chen, Yuvraj Agarwal, and Jason Hong. "Automated Extraction of Personal Knowledge from Smartphone Push Notifications." BigData 2018.
 
     [![BigData2018](https://img.shields.io/badge/BigData-2018-brightgreen.svg)](http://cci.drexel.edu/bigdata/bigdata2018/)
 
-- **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_PrivacyStreams.pdf)
+- **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." IMWUT aka. UbiComp 2017. [[PDF]]({{site.baseurl}}/static/files/UbiComp2017_PrivacyStreams.pdf) <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
 
-    [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/) <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a>
+    [![UbiComp2017](https://img.shields.io/badge/UbiComp-2017-brightgreen.svg)](http://ubicomp.org/ubicomp2017/) 
 
-- **Yuanchun Li**, Ziyue Yang, Yao Guo and Xiangqun Chen. "DroidBot: A Lightweight UI-Guided Test Input Generator for Android." ICSE 2017 (Tool Demo). Buenos Aires, Argentina, May 2017. [[PDF]]({{site.baseurl}}/static/files/DroidBot_ICSE2017.pdf)
+- **Yuanchun Li**, Ziyue Yang, Yao Guo and Xiangqun Chen. "DroidBot: A Lightweight UI-Guided Test Input Generator for Android." ICSE 2017 (Tool Demo). Buenos Aires, Argentina, May 2017. [[PDF]]({{site.baseurl}}/static/files/DroidBot_ICSE2017.pdf) <a class="github-button" href="https://github.com/honeynet/droidbot" data-show-count="true" aria-label="Star honeynet/droidbot on GitHub">Star</a>
 
-    [![ICSE-C2017](https://img.shields.io/badge/ICSE--C-2017-brightgreen.svg)](http://icse2017.gatech.edu/) <a class="github-button" href="https://github.com/honeynet/droidbot" data-show-count="true" aria-label="Star honeynet/droidbot on GitHub">Star</a>
+    [![ICSE-C2017](https://img.shields.io/badge/ICSE--C-2017-brightgreen.svg)](http://icse2017.gatech.edu/) 
 
 - Toby Jia-Jun Li, **Yuanchun Li**, Fanglin Chen and Brad A. Myers. "Programming IoT Devices by Demonstration Using Mobile Apps." International Symposium on End User Development (IS-EUD 2017).
 
@@ -90,3 +90,5 @@ My research interests lie in the intersection of ubiquitous computing (UbiComp),
 {% for post in site.posts %}
 + [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) {{ post.date | date_to_string }}
 {% endfor %}
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
