@@ -1,10 +1,12 @@
 ---
-layout: homepage
-title: Past projects
-category: project
+title: 'Past projects'
+date: 2016-11-10
+permalink: /posts/past_projects/
+tags:
+  - research
+  - deprecated
 ---
 
-## Past Projects
 
 + [HybridFlow](https://github.com/ylimit/HybridFlow) - 
 Many modern Android apps are hybrid, for example developed with multiple languages (Java + HTML for instance),
