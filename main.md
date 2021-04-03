@@ -9,7 +9,7 @@ title: Yuanchun Li's homepage
   <td><img width="256px" src="{{site.baseurl}}/static/figure/avatar_201603.jpg"></td>
   <td>
     <h2>Yuanchun Li 李元春</h2>
-    <p>Researcher</p>
+    <p>Senior Researcher</p>
     <p>Microsoft Research</p>
     <p>li.yuanchun [AT] foxmail [dot] com</p>
     <p><a href="{{site.baseurl}}/static/files/yuanchun_cv_en.pdf">Download my CV</a>
