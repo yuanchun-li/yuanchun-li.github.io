@@ -20,7 +20,7 @@ title: Yuanchun Li's homepage
 </tbody>
 </table>
 
-I'm now a researcher at Microsoft Research Asia (MSRA).
+I'm now a Senior Researcher at Microsoft Research Asia (MSRA).
 I was graduated from Peking University, under the supervision of [Yao Guo](http://sei.pku.edu.cn/~yaoguo/) and
 [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun).
 I was also advised by [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)
