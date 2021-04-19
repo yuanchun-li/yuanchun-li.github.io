@@ -36,7 +36,7 @@ My research interests lie in the fields of ubiquitous computing, security and pr
 
     [![ICSE2021](https://img.shields.io/badge/ICSE-2021-brightgreen.svg)](https://conf.researchr.org/track/icse-2021/icse-2021-papers)
 
-- Bingyan Liu, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "PMC: A Privacy-preserving Deep Learning Model Customization Framework for Edge Computing". IMWUT aka. UbiComp 2020.
+- Bingyan Liu, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "PMC: A Privacy-preserving Deep Learning Model Customization Framework for Edge Computing". IMWUT aka. UbiComp 2021.
 
     [![IMWUT2020](https://img.shields.io/badge/IMWUT-2020-brightgreen.svg)](https://dl.acm.org/journal/imwut)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Past projects'
+title: 'Some interesting open-source projects that I worked on before'
 date: 2016-11-10
 permalink: /posts/past_projects/
 tags:
@@ -25,9 +25,3 @@ DeDroid aims to recover the minified identifiers using machine learning.
     Researchers in ETH Zurich did the similar thing and their paper was published in CCS 2016.
     [Read their paper](www.srl.inf.ethz.ch/papers/deguard.pdf) or [Try their demo](http://apk-deguard.com/).
 
-+ Mobile Sensing Optimization - 
-Using app instrumentation techniques to rewrite Android sensing apps in order to save their battery life.
-The idea is simple: changing sampling frequency based on context,
-for example slowing down sample frequency of accelerometer when the user is not moving.
-
-    This work was published in ISLPED 2015.

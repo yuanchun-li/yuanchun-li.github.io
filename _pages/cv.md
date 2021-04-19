@@ -15,20 +15,20 @@ Education
 ======
 * B.S. in Computer Science, Peking University, 2010-2014
 * Ph.D in Computer Science, Peking University, 2014-2019
-* Visiting student, Carnegie Mellon University, 2016-2017
+* Visiting Ph.D. student, Carnegie Mellon University, 2016-2017
 
 Work experience
 ======
-* Researcher, Microsoft Research Asia, Beijing, China   2019.07 - Now
+* Researcher/Senior Researcher, Microsoft Research Asia, Beijing, China   2019.07 - Now
   * Working on reliable and trustworthy AIoT
 * Research Assistant, Peking University, Beijing, China   2014.09 - 2019.06
-  * Advisors: [Yao Guo](http://sei.pku.edu.cn/~yaoguo/), [Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun) and [Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm)
+  * Advisors: [Prof. Yao Guo](http://sei.pku.edu.cn/~yaoguo/) and [Prof. Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun)
   * Worked on GUI understanding and privacy analysis for mobile apps 
 * Research Intern, Microsoft Research, Redmond, USA				2018.05 – 2018.08
-  * Advisor: [Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/)
+  * Advisor: [Dr. Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/)
   * Worked on automatically extracting conversational skills from websites
-* Visiting Scholar, HCII, Carnegie Mellon University 				2016.09 – 2017.09
-  * Advisors: [Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)
+* Visiting Researcher, HCII, Carnegie Mellon University 				2016.09 – 2017.09
+  * Advisors: [Prof. Jason Hong](http://www.cs.cmu.edu/~jasonh/) and [Prof. Yuvraj Agarwal](http://www.synergylabs.org/yuvraj/)
   * Worked on PrivacyStreams, a privacy-aware programming framework
 * Software Intern, Xiaomi Monetization Department, Beijing, China 		2017.10 – 2018.05
   * Advisor: Chengming Wen
@@ -54,3 +54,8 @@ Teaching
   {% endfor %}</ul>
    -->
 
+<!-- ## Others
+
+{% for post in site.posts %}
++ [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) {{ post.date | date_to_string }}
+{% endfor %} -->
