@@ -22,7 +22,7 @@ Work experience
 * Researcher/Senior Researcher, Microsoft Research Asia, Beijing, China   2019.07 - Now
   * Working on reliable and trustworthy AIoT
 * Research Assistant, Peking University, Beijing, China   2014.09 - 2019.06
-  * Advisors: [Prof. Yao Guo](http://sei.pku.edu.cn/~yaoguo/) and [Prof. Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun)
+  * Advisors: [Prof. Yao Guo](http://sei.pku.edu.cn/~yaoguo/), [Prof. Gang Huang](http://sei.pku.edu.cn/~huanggang/index_en.htm) and [Prof. Xiangqun Chen](https://www.coursera.org/instructor/chenxiangqun)
   * Worked on GUI understanding and privacy analysis for mobile apps 
 * Research Intern, Microsoft Research, Redmond, USA				2018.05 – 2018.08
   * Advisor: [Dr. Oriana Riva](https://www.microsoft.com/en-us/research/people/oriana/)
