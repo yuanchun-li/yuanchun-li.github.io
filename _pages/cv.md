@@ -13,8 +13,8 @@ Download my CV at [link](/static/cv/yuanchun_cv_en.pdf) or [link (Chinese versio
 
 Education
 ======
-* B.S. in Computer Science, Peking University, 2010-2014
-* Ph.D in Computer Science, Peking University, 2014-2019
+* Bachelor in Computer Science, Peking University, 2010-2014
+* Ph.D. in Computer Science, Peking University, 2014-2019
 * Visiting Ph.D. student, Carnegie Mellon University, 2016-2017
 
 Work experience
