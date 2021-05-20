@@ -36,7 +36,7 @@ table th:nth-of-type(3) {
 
 | Venue | Authors & Title | Tags & Links |
 |----|----|----|
-| [ESEC/FSE 2021] | Chengxu Yang, **Yuanchun Li**, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu. "TaintStream: Fine-grained Taint Tracking for Big Data Platforms through Dynamic Code Translation" |  |
+| [ESEC/FSE 2021] | Chengxu Yang<sup>(intern)</sup>, **Yuanchun Li\***, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu. "TaintStream: Fine-grained Taint Tracking for Big Data Platforms through Dynamic Code Translation" |  |
 | [ISSTA 2021] | **Yuanchun Li**, Ziqi Zhang, Bingyan Liu, Ziyue Yang, Yunxin Liu. "ModelDiff: Testing-based DNN Similarity Comparison for Model Reuse Detection" |  |
 | [SIGIR 2021] | **Yuanchun Li**, Oriana Riva. "Glider: A reinforcement learning approach to extract UI scripts from websites" |  |
 | [ICSE 2021] | **Yuanchun Li**, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu. "DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection" | [[arxiv]](https://arxiv.org/pdf/2101.06896.pdf) |

@@ -13,7 +13,7 @@ author_profile: true
 
 (* indicates co-primary and/or corresponding author)
 
-- Chengxu Yang, **Yuanchun Li**, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu. "TaintStream: Fine-grained Taint Tracking for Big Data Platforms through Dynamic Code Translation". ESEC/FSE 2021
+- Chengxu Yang<sup>(intern)</sup>, **Yuanchun Li\***, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu. "TaintStream: Fine-grained Taint Tracking for Big Data Platforms through Dynamic Code Translation". ESEC/FSE 2021
 - **Yuanchun Li**, Ziqi Zhang, Bingyan Liu, Ziyue Yang, Yunxin Liu. "ModelDiff: Testing-based DNN Similarity Comparison for Model Reuse Detection". ISSTA 2021
 - **Yuanchun Li**, Oriana Riva. "Glider: A reinforcement learning approach to extract UI scripts from websites". SIGIR 2021
 - Liu Wang, Ren He, Haoyu Wang, Pengcheng Xia, **Yuanchun Li**, Lei Wu, Yajin Zhou, Xiapu Luo, Yulei Sui, Yao Guo, Guoai Xu. "Beyond the Virus: A First Look at Coronavirus-themed Android Malware". Empirical Software Engineering
