@@ -13,14 +13,11 @@ author_profile: true
 
 (* indicates co-primary and/or corresponding author)
 
+- Chengxu Yang, **Yuanchun Li**, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu. "TaintStream: Fine-grained Taint Tracking for Big Data Platforms through Dynamic Code Translation". ESEC/FSE 2021
 - **Yuanchun Li**, Ziqi Zhang, Bingyan Liu, Ziyue Yang, Yunxin Liu. "ModelDiff: Testing-based DNN Similarity Comparison for Model Reuse Detection". ISSTA 2021
 - **Yuanchun Li**, Oriana Riva. "Glider: A reinforcement learning approach to extract UI scripts from websites". SIGIR 2021
-- Liu Wang, Ren He, Haoyu Wang, Pengcheng Xia, **Yuanchun Li**, Lei Wu, Yajin Zhou, Xiapu Luo, Yulei Sui, Yao Guo, Guoai Xu.
-"Beyond the Virus: A First Look at Coronavirus-themed Android Malware".
-Empirical Software Engineering
-- Jiayi Hua, **Yuanchun Li**, Haoyu Wang.
-"MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps".
-The 4th Deep Learning and Security Workshop (DLS 2021), Co-located with S&P 2021
+- Liu Wang, Ren He, Haoyu Wang, Pengcheng Xia, **Yuanchun Li**, Lei Wu, Yajin Zhou, Xiapu Luo, Yulei Sui, Yao Guo, Guoai Xu. "Beyond the Virus: A First Look at Coronavirus-themed Android Malware". Empirical Software Engineering
+- Jiayi Hua, **Yuanchun Li**, Haoyu Wang. "MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps". The 4th Deep Learning and Security Workshop (DLS 2021), Co-located with S&P 2021
 - 	**Yuanchun Li**, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu. “DeepBackdoor: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection”. In Proceedings of the 2017 IEEE/ACM 39th International Conference on Software Engineering. (ICSE 2021).
 - 	Bingyan Liu<sup>(intern)</sup>, **Yuanchun Li***, Yao Guo, Xiangqun Chen, Yunxin Liu. “PMC: A Privacy-preserving Deep Learning Model Customization Framework for Edge Computing”. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 4, Article 139 (December 2020), 25 pages. (UbiComp 2021).
 - 	Ziqi Zhang<sup>(intern)</sup>, **Yuanchun Li***, Yao Guo, Xiangqun Chen, Yunxin Liu. “Dynamic Slicing for Deep Neural Networks.” In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. Association for Computing Machinery, New York, NY, USA, 838–850. (ESEC/FSE 2020)
