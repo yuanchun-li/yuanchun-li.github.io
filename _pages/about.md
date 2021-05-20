@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Senior Researcher in the [Systems and Networking research group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at Microsoft Research Asia (MSRA). Before joining MSRA, I obtained Ph.D. and Bachelor's degree in Computer Science from Peking University in 2019 and 2014.
 
-I have broad research interests in the areas of ubiquitous computing (UbiComp), software engineering (SE), and artificial intelligence (AI), where I've published more than 20 research papers in premier venues such as UbiComp, ICSE, FSE, and SIGIR, including a best paper nomination in UbiComp ‘2016 and a best paper in IS-EUD ‘2017. Some of the papers have become popular open-source tools and systems in the area. The focus of my recent work lies on the reliablility, scalability, and privacy issues of AI and AIoT.
+My primary research interest is software and systems for ubiquitous intelligence, which lies in the intersection of ubiquitous computing (UbiComp), software engineering (SE), and artificial intelligence (AI). I’ve published around 20 research papers in premier venues such as UbiComp, FSE, ICSE, ISSTA, and SIGIR, including a best paper nomination in UbiComp ‘2016 and a best paper in IS-EUD ‘2017. Some of the papers have become popular open-source tools in the area. The focus of my recent work lies on the reliablility, scalability, and privacy issues of AI and AIoT.
 
     
 ## Selected Publications
@@ -36,11 +36,12 @@ table th:nth-of-type(3) {
 
 | Venue | Authors & Title | Tags & Links |
 |----|----|----|
+| [ESEC/FSE 2021] | Chengxu Yang, **Yuanchun Li**, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu. "TaintStream: Fine-grained Taint Tracking for Big Data Platforms through Dynamic Code Translation" |  |
 | [ISSTA 2021] | **Yuanchun Li**, Ziqi Zhang, Bingyan Liu, Ziyue Yang, Yunxin Liu. "ModelDiff: Testing-based DNN Similarity Comparison for Model Reuse Detection" |  |
 | [SIGIR 2021] | **Yuanchun Li**, Oriana Riva. "Glider: A reinforcement learning approach to extract UI scripts from websites" |  |
 | [ICSE 2021] | **Yuanchun Li**, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu. "DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection" | [[arxiv]](https://arxiv.org/pdf/2101.06896.pdf) |
 | [UbiComp 2021]  | Bingyan Liu<sup>(intern)</sup>, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "PMC: A Privacy-preserving Deep Learning Model Customization Framework for Edge Computing" | [[pdf]]({{site.baseurl}}/static/files/UbiComp2021_PMC.pdf) [[code]](https://github.com/ziqi-zhang/NNSlicer) |
-| [FSE 2020] | Ziqi Zhang<sup>(intern)</sup>, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "Dynamic Slicing for Deep Neural Networks." | [[arxiv]](https://arxiv.org/pdf/2009.13747.pdf) [[code]](https://github.com/ziqi-zhang/NNSlicer) |
+| [ESEC/FSE 2020] | Ziqi Zhang<sup>(intern)</sup>, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "Dynamic Slicing for Deep Neural Networks." | [[arxiv]](https://arxiv.org/pdf/2009.13747.pdf) [[code]](https://github.com/ziqi-zhang/NNSlicer) |
 | [ASE 2019 tool] | **Yuanchun Li**, Ziyue Yang*, Yao Guo, Xiangqun Chen. "Humanoid: a deep learning-based approach to automated black-box Android app testing." | [[arxiv]](https://arxiv.org/abs/1901.02633) <a class="github-button" href="https://github.com/yzygitzh/Humanoid" data-show-count="true" aria-label="Star Humanoid on GitHub">Star</a> |
 | [BigData 2018] | **Yuanchun Li**, Ziyue Yang, Yao Guo, Xiangqun Chen, Yuvraj Agarwal, and Jason Hong. "Automated Extraction of Personal Knowledge from Smartphone Push Notifications." | [[arxiv]](https://arxiv.org/pdf/1808.02013.pdf) |
 | [UbiComp 2017] | **Yuanchun Li**, Fanglin Chen, Toby Jia-jun Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason I. Hong. "PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps." | [[pdf]]({{site.baseurl}}/static/files/UbiComp2017_PrivacyStreams.pdf) <a class="github-button" href="https://github.com/PrivacyStreams/PrivacyStreams" data-show-count="true" aria-label="Star PrivacyStreams/PrivacyStreams on GitHub">Star</a> |
