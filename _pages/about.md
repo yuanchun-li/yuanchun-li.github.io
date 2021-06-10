@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Senior Researcher in the [Systems and Networking research group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at Microsoft Research Asia (MSRA). Before joining MSRA, I obtained Ph.D. and Bachelor's degree in Computer Science from Peking University in 2019 and 2014.
 
-My primary research interest is software and systems for ubiquitous intelligence, which lies in the intersection of ubiquitous computing (UbiComp), software engineering (SE), and artificial intelligence (AI). I’ve published around 20 research papers in premier venues such as UbiComp, FSE, ICSE, ISSTA, MobiCom, and SIGIR, including a best paper nomination in UbiComp ‘2016 and a best paper in IS-EUD ‘2017. Some of the papers have become popular open-source tools in the area. The focus of my recent work lies on the reliablility, scalability, and privacy issues of AI and AIoT.
+My primary research interest is software and systems for ubiquitous intelligence, which lies in the intersection of ubiquitous computing (UbiComp), software engineering (SE), and artificial intelligence (AI). I’ve published around 20 research papers in premier venues such as UbiComp, FSE, ICSE, ISSTA, and SIGIR, including a best paper nomination in UbiComp ‘2016 and a best paper in IS-EUD ‘2017. Some of the papers have become popular open-source tools in the area. The focus of my recent work lies on the reliablility, scalability, and privacy issues of AI and AIoT.
 
     
 ## Selected Publications
@@ -36,7 +36,7 @@ table th:nth-of-type(3) {
 
 | Venue | Authors & Title | Tags & Links |
 |----|----|----|
-| [MobiCom 2021] | Shiqi Jiang, Zhiqi Lin, **Yuanchun Li**, Yuanchao Shu, Yunxin Liu. "Flexible High-resolution Object Detection on Edge Devices with Tunable Latency" | Conditionally accepted |
+<!-- | [MobiCom 2021] | Shiqi Jiang, Zhiqi Lin, **Yuanchun Li**, Yuanchao Shu, Yunxin Liu. "Flexible High-resolution Object Detection on Edge Devices with Tunable Latency" | Conditionally accepted | -->
 | [ESEC/FSE 2021] | Chengxu Yang<sup>(intern)</sup>, **Yuanchun Li\***, Mengwei Xu, Zhenpeng Chen, Yunxin Liu, Gang Huang, Xuanzhe Liu. "TaintStream: Fine-grained Taint Tracking for Big Data Platforms through Dynamic Code Translation" |  |
 | [ISSTA 2021] | **Yuanchun Li**, Ziqi Zhang, Bingyan Liu, Ziyue Yang, Yunxin Liu. "ModelDiff: Testing-based DNN Similarity Comparison for Model Reuse Detection" |  |
 | [SIGIR 2021] | **Yuanchun Li**, Oriana Riva. "Glider: A reinforcement learning approach to extract UI scripts from websites" |  |
