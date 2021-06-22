@@ -1,0 +1,71 @@
+% https://github.com/MCG-NKU/NSFC-LaTex
+% https://www.overleaf.com/read/jydxqkkkskzp
+% by Ming-Ming Cheng https://mmcheng.net
+% 关于VsCode LaTeX的配置 https://www.cnblogs.com/ourweiguan/p/11785660.html
+
+\documentclass[12pt]{article}
+
+
+\usepackage[UTF8]{ctex}
+\usepackage{nsfc}
+
+
+%\usepackage{fontspec}
+%\usepackage{xcolor}
+%\defaultfontfeatures{Ligatures=TeX}
+
+
+
+
+\newcommand{\lyc}[1]{\textcolor[rgb]{0,0.6,0}{LYC: #1}}
+\newcommand{\todo}[1]{{\textcolor{red}{\bf [#1]}}}
+\newcommand{\myPara}[1]{\paragraph{#1：}}
+
+\graphicspath{{figures/}}
+
+
+\begin{document}
+
+
+
+%%%%%%%%% TITLE
+
+\title{教学陈述}
+
+\maketitle
+
+\begin{center} {李元春} \end{center}
+
+
+我深信教学相长、温故知新的道理，参与教学不仅是身为一个教师的职责，同时也是一个反思和凝练研究工作的过程。在过去的求学和工作过程中，我有过一些参与教学和指导的经历，在自己获得提升的同时，获得了帮助他人成功的成就感。未来我也非常期待作为一名教师和导师，继续提升自己并对更多人产生正面的影响。
+
+\section{教学和指导经历}
+
+在攻读博士期间，我曾多次作为助教，协助导师参与各项课程的教学，如《计算机系统导论》、《操作系统》、《编译原理》等。我的工作内容包括部分课件的制作、专题的讲授、作业批改和答疑、讨论课的组织等等。这些经历一方面使我熟悉了一门课程背后的运作模式、锻炼了总结和讲授的能力，同时也通过与老师同学的讨论和互动，学到了很多新的知识。
+
+在读期间，我还多次作为 The Honeynet Project 组织的成员，担任 Google Summer of Code 开源项目的导师，指导国内外学生参与开源项目。从这些这些经历中，我学习了如何面试和挑选合适的学生，体会到如何帮助学生指定项目计划，管理项目的进度，从而推进项目的成功。同时，在这些项目中，我还帮助学生与国际同行展开合作和交流，从而获得更大的影响力。
+
+毕业之后，我在微软亚洲研究院工作期间指导过多个实习生参与科研，其中大部分的实习时间为六个月以上。对于每个实习生，我带领其完成一个研究项目从无到有的全过程，帮助他们学习如何寻找研究问题、如何制定解决方案、如何进行学术演讲、以及如何撰写学术论文等等。大部分实习生都在我的指导下完成了一个完整的项目，有些还发表了高水平的学术论文。在帮助他们成功的同时，我也获得了莫大的成就感。
+
+
+\section{预计可讲授课程}
+
+
+\subsection{《智能软件工程》}
+卡内基梅隆大学开设有两门与智能软件工程相关的课程，分别是 AI4SE \cite{cmu:ai4se} 和 SE4AI \cite{cmu:se4ai}，分别讲解如何用AI技术解决软件工程中的经典问题（如代码分析、需求分析、测试等）和如何用软件分析技术解决AI模型相关的重要问题（例如模型鲁棒性测试和验证、决策过程分析与解释、模型调试等）。我对这两个方向都较为熟悉，可以讲授相关课程。
+
+\subsection{《人工智能的安全、隐私与伦理》}
+神经网络的安全隐私及伦理问题是如今热门的研究方向之一，已有很多大学开设了相关课程 \cite{ucb:trustworthy,ucb:fairness}。我在微软亚洲研究院开源课程《人工智能系统》 \cite{microsoft:ai-system}中担任安全与隐私章节的讲师，也对该方向做过调研和整理，可以讲授相关课程。
+
+\subsection{《计算机系统》、《编译原理》、《软件工程》}
+我在本科学习期间就对这些课程就有着浓厚的兴趣，在取得了优异的成绩的同时，直接促使我选择了相关方向的实验室和导师展开了科研工作。博士在读期间，又多次担任这些基础课程的助教，进一步加深了对相关课程内容的理解，并熟悉了课程背后的教案准备、作业批改、试题设计等内容。这些基础课程是历久弥新的，对我未来的研究工作也有温故知新的作用，因此我也可以讲授这些基础课程。
+
+
+
+{
+\bibliographystyle{ieee_fullname}
+\bibliography{lyc}
+}
+
+
+\end{document}
