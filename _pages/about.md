@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Senior Researcher in the [Systems and Networking research group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at Microsoft Research Asia (MSRA). Before joining MSRA, I obtained Ph.D. and Bachelor's degree in Computer Science from Peking University in 2019 and 2014.
 
-My primary research interest is software and systems for ubiquitous intelligence, which lies in the intersection of ubiquitous computing (UbiComp), software engineering (SE), and artificial intelligence (AI). I’ve published around 20 research papers in premier venues such as UbiComp, FSE, ICSE, ISSTA, and SIGIR, including a best paper nomination in UbiComp ‘2016 and a best paper in IS-EUD ‘2017. Some of the papers have become popular open-source tools in the area. The focus of my recent work lies on the reliablility, scalability, and privacy issues of AI and AIoT.
+My primary research interest is reliable software and systems for ubiquitous intelligence, which lies in the intersection of ubiquitous computing (UbiComp), software engineering (SE), and artificial intelligence (AI). I’ve published around 20 research papers in premier venues such as UbiComp, MobiCom, FSE, ICSE, ISSTA, and SIGIR, including a best paper nomination in UbiComp ‘2016 and a best paper in IS-EUD ‘2017. Some of the papers have become popular open-source tools in the area. The focus of my recent work lies on the reliablility, scalability, and privacy issues of AI and AIoT.
 
     
 ## Selected Publications

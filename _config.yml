@@ -10,7 +10,8 @@ locale                   : "en-US"
 title                    : "Yuanchun Li"
 title_separator          : "-"
 name                     : &name "Yuanchun Li"
-description              : &description "Ph.D. in Computer Science"
+description              : &description "Researcher in Computer Science"
+# url                      : http://localhost:4000 # for debug purpose
 url                      : https://ylimit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ylimit/ylimit.github.io"
@@ -82,9 +83,11 @@ analytics:
 author:
   name             : "Yuanchun Li"
   avatar           : "yuanchun_portrait.jpg"
-  bio              : "PhD in Computer Science"
+  bio              : "Researcher in Computer Science"
+  title            : "Senior Reseacher"
+  affiliation      : "Microsoft Research Asia"
   location         : "Beijing, China"
-  employer         :
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B3hg7BgAAAAJ&hl=en"
   email            : "li.yuanchun AT foxmail.com"
