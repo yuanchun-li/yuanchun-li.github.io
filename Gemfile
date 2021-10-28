@@ -10,6 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 208"
+
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -17,6 +19,11 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "rexml", ">= 3.2.5"
+gem "kramdown", ">= 2.3.1"
+gem "nokogiri", ">= 1.12.5"
+gem "addressable", ">= 2.8.0"
+
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
