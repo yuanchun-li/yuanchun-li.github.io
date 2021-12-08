@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuanchun Li"
 title_separator          : "-"
 name                     : &name "Yuanchun Li"
-description              : &description "Researcher in Computer Science"
+description              : &description "Research Assistant Professor at the Institute for AI Industry Research (AIR), Tsinghua University"
 # url                      : http://localhost:4000 # for debug purpose
 url                      : https://yuanchun-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Yuanchun Li"
   avatar           : "yuanchun_portrait.jpg"
-  bio              : "Researcher in Computer Science"
-  title            : "Senior Reseacher"
-  affiliation      : "Microsoft Research Asia"
+  bio              : "Research Assistant Professor at the Institute for AI Industry Research (AIR), Tsinghua University"
+  title            : "Research Assistant Professor"
+  affiliation      : "Tsinghua University"
   location         : "Beijing, China"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -118,6 +118,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : /cv/
 
 
 # Reading Files
