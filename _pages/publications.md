@@ -11,14 +11,14 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 (* indicates co-primary and/or corresponding author. <sup>(s)</sup> represents the students/interns advised by me.)
 
-## In the year of 2022
+## 2022
 
 <a name="ICLR22"></a>
 -   Divyam Madaan, Jaehong Yoon, **Yuanchun Li**, Yunxin Liu, Sung Ju Hwang. "Representational Continuity for Unsupervised Continual Learning". International Conference on Learning Representations (ICLR) 2022 (Oral presentation)
 <a name="ICSE22"></a>
 -   Ziqi Zhang<sup>(s)</sup>, **Yuanchun Li\***, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, Yunxin Liu. “ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing”. In Proceedings of the 2022 IEEE/ACM 44th International Conference on Software Engineering. (ICSE 2022)
 
-## In the year of 2021
+## 2021
 
 <a name="Arxiv21"></a>
 -   Yuheng Huang<sup>(s)</sup>, **Yuanchun Li\***. "Zero-Shot Certified Defense against Adversarial Patches with Vision Transformers." arXiv preprint arXiv:2111.10481 (2021). 
