@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at the [Institute for AI Industry Research (AIR)](http://air.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I received a Ph.D. degree and a Bachelor's degree in Computer Science, both from [Peking University](https://cs.pku.edu.cn/English/Home.htm). I had also worked as a Visiting PhD Student at [Carnegie Mellon University](https://hcii.cmu.edu/). Before joining AIR, I was a Senior Researcher in the [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at [Microsoft Research Asia (MSRA)](https://www.msra.cn/).
+I am a Assistant Researcher at the [Institute for AI Industry Research (AIR)](http://air.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I received a Ph.D. degree and a Bachelor's degree in Computer Science, both from [Peking University](https://cs.pku.edu.cn/English/Home.htm). I had also worked as a Visiting PhD Student at [Carnegie Mellon University](https://hcii.cmu.edu/). Before joining AIR, I was a Senior Researcher in the [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at [Microsoft Research Asia (MSRA)](https://www.msra.cn/).
 
 My research interests can be summarized as **intelligent systems software**, which includes the following two aspects:
 - **Systems and software supports for AI** - Building systems and tools to improve AI, including its reliability, privacy, and efficiency.
