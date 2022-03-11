@@ -10,16 +10,17 @@ redirect_from:
 
 I am a Assistant Researcher at the [Institute for AI Industry Research (AIR)](http://air.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I received a Ph.D. degree and a Bachelor's degree in Computer Science, both from [Peking University](https://cs.pku.edu.cn/English/Home.htm). I had also worked as a Visiting PhD Student at [Carnegie Mellon University](https://hcii.cmu.edu/). Before joining AIR, I was a Senior Researcher in the [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at [Microsoft Research Asia (MSRA)](https://www.msra.cn/).
 
-My research interests can be summarized as **intelligent systems software**, which includes the following two aspects:
-- **Systems and software supports for AI** - Building systems and tools to improve AI, including its reliability, privacy, and efficiency.
-- **AI for fundamental software and systems** - Revolutionalizing today's systems and software with AI, such as program synthesis, automated testing, and self-organized systems.
+My current research interests can be summarized as **Edge AI**, which includes the following two aspects:
+- **Edge AI Efficiency** - Building systems to improve the efficiency of AI models, or designing AI models that can run efficiently at the edge.
+- **Edge AI Reliability** - Improving the reliability of AI models deployed at the edge, by making them more robust, generalizable, and privacy-preserving.
 
-I’ve published more than 20 research papers in premier venues such as ICSE, FSE, ISSTA, SIGIR, UbiComp, and MobiCom, including a best paper nomination in UbiComp 2016 and a best paper in IS-EUD 2017. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
+I’ve published more than 20 research papers in premier venues such as ICSE, FSE, ISSTA, SIGIR, UbiComp, MobiCom, and ICLR, including a best paper nomination in UbiComp 2016 and a best paper in IS-EUD 2017. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
 
-<p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting PostDocs, PhD students, engineers, and interns. Please feel free to contact me if you find our research interesting.</p>
+<p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting PostDocs, PhD students, engineers, and interns. Please feel free to contact me if you are interested.</p>
 
 ## News
 
+- 📢 **2022/03** -- Our paper "Representational Continuity for Unsupervised Continual Learning" got accepted to ICLR 2022 (Oral presentation)!
 - 📢 **2021/12** -- Our paper "ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing" is accepted to ICSE 2022. It discusses the defect inheritance problem during transfer learning. I believe the security of pretrained models is an important problem since pretraining is increaingly popular.
 - 📢 **2021/11** -- I recently left MSRA and joined the Institute for AI Industry Research (AIR) at Tsinghua University as a Research Assistant Professor. Many thanks to my mentors and colleagues at MSRA.
 
@@ -44,24 +45,16 @@ table th:nth-of-type(3) {
 
 <!-- CCF-A badge [![CCF-A](https://img.shields.io/badge/CCF-A-brightgreen.svg)](#) -->
 
-### Systems and software for AI
-
 - Enhancing AI reliability
-  - Adversarial attacks ([ICSE22](/publications/#ICSE22), [FSE20](/publications/#FSE20), [Arxiv21](/publications/#Arxiv21))
-  - Backdoor attacks ([ICSE21](/publications/#ICSE21), [ICSE22](/publications/#ICSE22)).
+  - Adversarial attacks & defense ([ICSE22](/publications/#ICSE22), [FSE20](/publications/#FSE20), [Arxiv21](/publications/#Arxiv21))
+  - Backdoor attacks & defense ([ICSE21](/publications/#ICSE21), [ICSE22](/publications/#ICSE22))
+  - Overcoming distribution shift ([UbiComp21](/publications/#UbiComp21), [ICLR22](/publications/#ICLR22))
+- Improving AI efficiency
+  - Systems support for AI ([MobiCom21](/publications/#MobiCom21))
+  - Model design/compression for efficiency
 - Protecting AI privacy
   - Data privacy ([FSE21](/publications/#FSE21), [UbiComp21](/publications/#UbiComp21), [UbiComp17a](/publications/#UbiComp17a))
-  - Model privacy ([ISSTA21](/publications/#ISSTA21)).
-- Improving AI efficiency and adaptivity on the edge ([MobiCom21](/publications/#MobiCom21)).
-
-### AI for systems and software
-
-- AI-based automated testing 
-  - Automated mobile app testing ([ICSE17](/publications/#ICSE17), [ASE19](/publications/#ASE19)).
-- AI-powered program synthesis
-  - The synthesis of UI scripts ([SIGIR21](/publications/#SIGIR21), [ISEUD17](/publications/#ISEUD17)).
-- AI for self-organized systems.
-
+  - Model privacy ([ISSTA21](/publications/#ISSTA21))
 
 ## Selected Recent Publications
 
