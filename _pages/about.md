@@ -16,7 +16,7 @@ My current research interests can be summarized as **Edge AI**, which includes t
 
 I’ve published more than 20 research papers in premier venues such as ICSE, FSE, ISSTA, SIGIR, UbiComp, MobiCom, and ICLR, including a best paper nomination in UbiComp 2016 and a best paper in IS-EUD 2017. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
 
-<p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting PostDocs, PhD students, engineers, and interns. Please feel free to contact me if you are interested.</p>
+<p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting [PostDocs](https://air.tsinghua.edu.cn/info/1029/1565.htm), [research engineers](https://air.tsinghua.edu.cn/info/1028/1566.htm), and [interns](https://air.tsinghua.edu.cn/info/1030/1564.htm). Please feel free to contact me if you are interested.</p>
 
 ## News
 
