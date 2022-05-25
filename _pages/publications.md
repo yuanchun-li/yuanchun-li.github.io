@@ -13,8 +13,12 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 ## 2022
 
+<a name="MobiSys22"></a>
+- Jaemin Shin, Yuanchun Li, Yunxin Liu, and Sung-Ju Lee. "FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients". In The 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys ’22),
 <a name="ICLR22"></a>
 -   Divyam Madaan, Jaehong Yoon, **Yuanchun Li**, Yunxin Liu, Sung Ju Hwang. "Representational Continuity for Unsupervised Continual Learning". International Conference on Learning Representations (ICLR) 2022 (Oral presentation)
+<a name="ICSE22d"></a>
+-   Weixiang Yan<sup>(s)</sup>, **Yuanchun Li**. “WhyGen: Explaining ML-powered Code Generation by Referring to Training Examples”. In Proceedings of the 2022 IEEE/ACM 44th International Conference on Software Engineering. (ICSE 2022 Demo)
 <a name="ICSE22"></a>
 -   Ziqi Zhang<sup>(s)</sup>, **Yuanchun Li\***, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, Yunxin Liu. “ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing”. In Proceedings of the 2022 IEEE/ACM 44th International Conference on Software Engineering. (ICSE 2022)
 
