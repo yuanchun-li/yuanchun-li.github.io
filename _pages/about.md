@@ -47,13 +47,13 @@ table th:nth-of-type(3) {
 
 <!-- CCF-A badge [![CCF-A](https://img.shields.io/badge/CCF-A-brightgreen.svg)](#) -->
 
+- Improving edge AI efficiency
+  - Systems optimization for AI ([MobiCom21](/publications/#MobiCom21)) ([MobiSys22](/publications/#MobiSys22))
+  - Model design/compression for efficiency ([MobiCom23](/publications/#MobiCom23))
 - Enhancing edge AI reliability
   - Adversarial attacks & defense ([ICSE22](/publications/#ICSE22), [FSE20](/publications/#FSE20), [Arxiv21](/publications/#Arxiv21))
   - Backdoor attacks & defense ([ICSE21](/publications/#ICSE21), [ICSE22](/publications/#ICSE22))
   - Overcoming distribution shift ([UbiComp21](/publications/#UbiComp21), [ICLR22](/publications/#ICLR22))
-- Improving edge AI efficiency
-  - Systems optimization for AI ([MobiCom21](/publications/#MobiCom21)) ([MobiSys22](/publications/#MobiSys22))
-  - Model design/compression for efficiency
 - Protecting edge AI privacy
   - Data privacy ([FSE21](/publications/#FSE21), [UbiComp21](/publications/#UbiComp21), [UbiComp17a](/publications/#UbiComp17a))
   - Model privacy ([ISSTA21](/publications/#ISSTA21))
