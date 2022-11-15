@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+- 📢 **2022/11** -- Our paper "AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments" is accepted to MobiCom 2023! Congratulations to [Wen Hao](#) for his first (top-conference) paper. Much thanks to our collaborators [@Zunshuai Zhang](#), [@Shiqi Jiang](https://www.microsoft.com/en-us/research/people/shijiang/), [@Yunxin Liu](https://yunxinliu.github.io/) and industry partners!
+- 📢 **2022/06** -- Our paper "MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras" is accepted to MobiCom 2022! Congratulations to [Jinrui Zhang](https://zjr.eis.mobi/) and other coauthors.
 - 📢 **2022/05** -- Our paper "FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients" got accepted to MobiSys 2022! We propose to accelerate FL training through fine-grained client data selection and deadline control. Thanks to awesome collaborators [Jaemin](https://jaemin-shin.github.io/) and [Prof. Sung-Ju Lee](https://jaemin-shin.github.io/) at KAIST.
 - 📢 **2022/03** -- Our paper "WhyGen: Explaining ML-powered Code Generation by Referring to Training Examples" is accepted to the Demo track of ICSE 2022. Congratulations to Weixiang for his first publication! It talks about the widely-concerned [recitation problem](https://docs.github.com/ja/github/copilot/research-recitation) in DL-based code generators.
 - 📢 **2022/03** -- Our paper "Representational Continuity for Unsupervised Continual Learning" got accepted to ICLR 2022 (Oral presentation)!

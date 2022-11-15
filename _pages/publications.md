@@ -9,14 +9,21 @@ author_profile: true
 
 This list may be incomplete since it only includes the papers that lie in my research areas. You can find the full list at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
-(* indicates co-primary and/or corresponding author. <sup>(s)</sup> represents the students/interns advised by me.)
+<!-- (* indicates co-primary and/or corresponding author. <sup>(s)</sup> represents the students/interns advised by me.) -->
+
+## 2023
+
+<a name="MobiCom23"></a>
+-   Hao Wen, **Yuanchun Li\***, Zunshuai Zhang, Shiqi Jiang, Xiaozhou Ye, Ye Ouyang, Yaqin Zhang, Yunxin Liu. "AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments". In Proceedings of the 29th Annual International Conference on Mobile Computing And Networking. (MobiCom 2023)
 
 ## 2022
 
+<a name="MobiCom22"></a>
+-   Jinrui Zhang, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Ting Cao, **Yuanchun Li**, Yaoxue Zhang, Yunxin Liu. "MobiDepth: real-time depth estimation using on-device dual cameras". In Proceedings of the 28th Annual International Conference on Mobile Computing And Networking. (MobiCom 2022)
 <a name="MobiSys22"></a>
-- Jaemin Shin, Yuanchun Li, Yunxin Liu, and Sung-Ju Lee. "FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients". In The 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys ’22),
+-   Jaemin Shin, **Yuanchun Li\***, Yunxin Liu, and Sung-Ju Lee. "FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients". In The 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys 2022)
 <a name="ICLR22"></a>
--   Divyam Madaan, Jaehong Yoon, **Yuanchun Li**, Yunxin Liu, Sung Ju Hwang. "Representational Continuity for Unsupervised Continual Learning". International Conference on Learning Representations (ICLR) 2022 (Oral presentation)
+-   Divyam Madaan, Jaehong Yoon, **Yuanchun Li**, Yunxin Liu, Sung Ju Hwang. "Representational Continuity for Unsupervised Continual Learning". International Conference on Learning Representations (ICLR 2022 Oral)
 <a name="ICSE22d"></a>
 -   Weixiang Yan<sup>(s)</sup>, **Yuanchun Li**. “WhyGen: Explaining ML-powered Code Generation by Referring to Training Examples”. In Proceedings of the 2022 IEEE/ACM 44th International Conference on Software Engineering. (ICSE 2022 Demo)
 <a name="ICSE22"></a>
