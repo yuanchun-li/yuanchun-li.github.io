@@ -20,7 +20,7 @@ This list may be incomplete since it only includes the papers that lie in my res
 <a name="SANER23a"></a>
 -   Naiyu Zheng, Ting Chen, Chuchu Dong, Yubo Yang, Yuanzhe Li, Yunxin Liu, **Yuanchun Li**. "Environment-aware Testing for DNN-based Smart-home WiFi Sensing Systems". In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering. (SANER 2023)
 <a name="SANER23b"></a>
--   Zhonghao Pan, Yang Feng, Zhiyuan Li, Yunxin Liu, **Yuanchun Li**. "Understanding the Impact of Quantum Noise on Quantum Programs". In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering. (SANER 2023)
+-   Zhonghao Pan, Yang Feng, Zhiyuan Li, Yunxin Liu, **Yuanchun Li\***. "Understanding the Impact of Quantum Noise on Quantum Programs". In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering. (SANER 2023)
 <a name="ICSE23"></a>
 -   Ziqi Zhang, **Yuanchun Li**, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. "FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing". In Proceedings of the 2022 IEEE/ACM 45th International Conference on Software Engineering. (ICSE 2023)
 <a name="INFOCOM23"></a>
