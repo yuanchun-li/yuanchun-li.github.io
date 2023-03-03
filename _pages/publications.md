@@ -13,8 +13,12 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 ## 2023
 
+<a name="MobiSys23"></a>
+-   Rui Kong, **Yuanchun Li\***, Yizhen Yuan, Linghe Kong. "ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU". In Proceedings of the 21st ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2023)
+<a name="TOSEM23"></a>
+-   Yuheng Huang, Lei Ma, **Yuanchun Li\***. "PatchCensor: Patch Robustness Certification for Transformers via Exhaustive Testing". ACM Transactions on Software Engineering and Methodology. (TOSEM)
 <a name="SANER23a"></a>
--   Naiyu Zheng, Ting Chen, Chuchu Dong, Yubo Yang, Yuanzhe Li, Yunxin Liu, **Yuanchun Li**. "\Environment-aware Testing for DNN-based Smart-home WiFi Sensing Systems". In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering. (SANER 2023)
+-   Naiyu Zheng, Ting Chen, Chuchu Dong, Yubo Yang, Yuanzhe Li, Yunxin Liu, **Yuanchun Li**. "Environment-aware Testing for DNN-based Smart-home WiFi Sensing Systems". In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering. (SANER 2023)
 <a name="SANER23b"></a>
 -   Zhonghao Pan, Yang Feng, Zhiyuan Li, Yunxin Liu, **Yuanchun Li**. "Understanding the Impact of Quantum Noise on Quantum Programs". In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering. (SANER 2023)
 <a name="ICSE23"></a>
