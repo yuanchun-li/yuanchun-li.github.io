@@ -14,7 +14,7 @@ My current research interests can be summarized as **Edge AI**, which includes t
 - **Edge AI Efficiency** - Building systems to improve the efficiency of AI models, or designing AI models that can run efficiently at the edge.
 - **Edge AI Reliability** - Improving the reliability of AI models deployed at the edge, by making them more robust, generalizable, and privacy-preserving.
 
-I’ve published many research papers in premier venues of mobile computing, artificial intelligence, and software engineering, including a best paper nomination in UbiComp 2016 and a best paper in IS-EUD 2017. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
+I’ve published in premier venues of mobile computing, artificial intelligence, and software engineering, including a best paper nomination in UbiComp 2016 and a best paper in IS-EUD 2017. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
 
 <p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1029/1565.htm'>PostDocs</a>, <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1028/1566.htm'>research engineers</a>, and <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1030/1564.htm'>interns</a>. Please feel free to contact me if you are interested.</p>
 
