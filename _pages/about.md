@@ -62,8 +62,8 @@ table th:nth-of-type(3) {
 
 | Venue | Authors & Title | Tags & Links |
 |----|----|----|
-| [MobiSys 2023] | Rui Kong, **Yuanchun Li\***, Yizhen Yuan, Linghe Kong. "ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU" | [arxiv]() [code]() |
-| [MobiCom 2023] | Hao Wen, **Yuanchun Li\***, Zunshuai Zhang, Shiqi Jiang, Xiaozhou Ye, Ye Ouyang, Yaqin Zhang, Yunxin Liu. "AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments" | [arxiv]() [code]() |
+| [MobiSys 2023] | Rui Kong, **Yuanchun Li\***, Yizhen Yuan, Linghe Kong. "ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU" | [pdf]({{site.baseurl}}/static/files/MobiSys23_ConvReLU++.pdf) [code](https://github.com/GAIR-team/conv_relu_plus_plus) |
+| [MobiCom 2023] | Hao Wen, **Yuanchun Li\***, Zunshuai Zhang, Shiqi Jiang, Xiaozhou Ye, Ye Ouyang, Yaqin Zhang, Yunxin Liu. "AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments" | [arxiv](https://arxiv.org/pdf/2303.07129.pdf) [code](https://github.com/wenh18/AdaptiveNet) |
 | [MobiSys 2022] | Jaemin Shin, **Yuanchun Li\***, Yunxin Liu, Sung-Ju Lee. "FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients" | [arxiv](https://arxiv.org/pdf/2201.01601.pdf) [code](https://github.com/jaemin-shin/FedBalancer) |
 | [ICSE 2022] | Ziqi Zhang, **Yuanchun Li\***, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, Yunxin Liu. “ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing” | [pdf]({{site.baseurl}}/static/files/ICSE2022_ReMoS.pdf) [code](https://github.com/ziqi-zhang/ReMoS_artifact) |
 | [UbiComp 2021]  | Bingyan Liu, **Yuanchun Li\***, Yao Guo, Xiangqun Chen, Yunxin Liu. "PMC: A Privacy-preserving Deep Learning Model Customization Framework for Edge Computing" | [[pdf]]({{site.baseurl}}/static/files/UbiComp2021_PMC.pdf) [[code]](https://github.com/ziqi-zhang/NNSlicer) |
