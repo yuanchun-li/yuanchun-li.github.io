@@ -14,7 +14,7 @@ This list may be incomplete since it only includes the papers that lie in my res
 ## 2023
 
 <a name="MM23"></a>
--   Yizhen Yuan, Rui Kong, Shenghao Xie, Yuanchun Li, Yunxin Liu. "PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification". ACM Multimedia. (MM 2023)
+-   Yizhen Yuan, Rui Kong, Shenghao Xie, **Yuanchun Li\***, Yunxin Liu. "PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification". ACM Multimedia. (MM 2023)
 <a name="TMC23"></a>
 -   Jinrui Zhang, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Youngki Lee, Ting Cao, **Yuanchun Li**, Yaoxue Zhang, Yunxin Liu. "HiMoDepth: Efficient Training-free High-resolution On-device Depth Perception". IEEE Transactions on Mobile Computing (TMC)
 <a name="ISSRE23a"></a>
