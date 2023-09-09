@@ -20,7 +20,7 @@ This list may be incomplete since it only includes the papers that lie in my res
 <a name="ISSRE23a"></a>
 -   Chen Yang, **Yuanchun Li**, Hao Lu, Jinliang Yuan, Qibo Sun, Shangguang Wang, Mengwei Xu. "Testing and Enhancing the Robustness of Federated Learning System against Realistic Data Corruption". (ISSRE 2023)
 <a name="ISSRE23b"></a>
--   Shaokun Zhang, Wu Linna, **Yuanchun Li**, Ziqi Zhang, Hanwei Lei, Ding Li, Yao Guo, Xiangqun Chen. "Understanding the Impact of Quantum Noise on Quantum Programs". (ISSRE 2023)
+-   Shaokun Zhang, Wu Linna, **Yuanchun Li**, Ziqi Zhang, Hanwei Lei, Ding Li, Yao Guo, Xiangqun Chen. "ReSPlay: Improving Cross-Platform Record-and-Replay with GUI Sequence Matching". (ISSRE 2023)
 <a name="MobiSys23"></a>
 -   Rui Kong, **Yuanchun Li\***, Yizhen Yuan, Linghe Kong. "ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU". In Proceedings of the 21st ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2023)
 <a name="TOSEM23"></a>
