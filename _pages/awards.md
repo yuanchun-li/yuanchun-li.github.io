@@ -10,6 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
++ The General Program of National Natural Science Foundation of China (NSFC) 2022
 + National Scholarship 2017
 + IS-EUD 2017 Best Paper Award
 + 2016 Bosch/Bezirk Internet of Things Hackathon - 1st place ($1000)

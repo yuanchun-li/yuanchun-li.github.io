@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuanchun Li"
 title_separator          : "-"
 name                     : &name "Yuanchun Li"
-description              : &description "Research Assistant Professor at the Institute for AI Industry Research (AIR), Tsinghua University"
+description              : &description "Institute for AI Industry Research (AIR), Tsinghua University"
 # url                      : http://localhost:4000 # for debug purpose
 url                      : https://yuanchun-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Yuanchun Li"
-  avatar           : "yuanchun_portrait.jpg"
-  bio              : "Research Assistant Professor at the Institute for AI Industry Research (AIR), Tsinghua University"
-  title            : "Research Assistant Professor"
+  avatar           : "yuanchun_portrait_square.jpg"
+  bio              : "Institute for AI Industry Research (AIR), Tsinghua University"
+  title            : "-"
   affiliation      : "Tsinghua University"
   location         : "Beijing, China"
   employer         : 

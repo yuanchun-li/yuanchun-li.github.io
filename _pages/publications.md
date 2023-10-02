@@ -9,14 +9,41 @@ author_profile: true
 
 This list may be incomplete since it only includes the papers that lie in my research areas. You can find the full list at <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
-(* indicates co-primary and/or corresponding author. <sup>(s)</sup> represents the students/interns advised by me.)
+<!-- (* indicates co-primary and/or corresponding author. <sup>(s)</sup> represents the students/interns advised by me.) -->
+
+## 2023
+
+<a name="MM23"></a>
+-   Yizhen Yuan, Rui Kong, Shenghao Xie, **Yuanchun Li\***, Yunxin Liu. "PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification". ACM Multimedia. (MM 2023)
+<a name="TMC23"></a>
+-   Jinrui Zhang, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Youngki Lee, Ting Cao, **Yuanchun Li**, Yaoxue Zhang, Yunxin Liu. "HiMoDepth: Efficient Training-free High-resolution On-device Depth Perception". IEEE Transactions on Mobile Computing (TMC)
+<a name="ISSRE23a"></a>
+-   Chen Yang, **Yuanchun Li**, Hao Lu, Jinliang Yuan, Qibo Sun, Shangguang Wang, Mengwei Xu. "Testing and Enhancing the Robustness of Federated Learning System against Realistic Data Corruption". (ISSRE 2023)
+<a name="ISSRE23b"></a>
+-   Shaokun Zhang, Wu Linna, **Yuanchun Li**, Ziqi Zhang, Hanwei Lei, Ding Li, Yao Guo, Xiangqun Chen. "ReSPlay: Improving Cross-Platform Record-and-Replay with GUI Sequence Matching". (ISSRE 2023)
+<a name="MobiSys23"></a>
+-   Rui Kong, **Yuanchun Li\***, Yizhen Yuan, Linghe Kong. "ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU". In Proceedings of the 21st ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2023)
+<a name="TOSEM23"></a>
+-   Yuheng Huang, Lei Ma, **Yuanchun Li\***. "PatchCensor: Patch Robustness Certification for Transformers via Exhaustive Testing". ACM Transactions on Software Engineering and Methodology. (TOSEM)
+<a name="SANER23a"></a>
+-   Naiyu Zheng, Ting Chen, Chuchu Dong, Yubo Yang, Yuanzhe Li, Yunxin Liu, **Yuanchun Li**. "Environment-aware Testing for DNN-based Smart-home WiFi Sensing Systems". In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering. (SANER 2023)
+<a name="SANER23b"></a>
+-   Zhonghao Pan, Yang Feng, Zhiyuan Li, Yunxin Liu, **Yuanchun Li\***. "Understanding the Impact of Quantum Noise on Quantum Programs". In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering. (SANER 2023)
+<a name="ICSE23"></a>
+-   Ziqi Zhang, **Yuanchun Li**, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen. "FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing". In Proceedings of the 2022 IEEE/ACM 45th International Conference on Software Engineering. (ICSE 2023)
+<a name="INFOCOM23"></a>
+-   Jinliang Yuan, Shangguang Wang, Shihe Wang, **Yuanchun Li**, Xiao Ma, Ao Zhou, Mengwei Xu "Privacy as a Resource in Differentially Private Federated Learning". In Proceedings of the 2023 IEEE International Conference on Computer Communications. (INFOCOM 2023)
+<a name="MobiCom23"></a>
+-   Hao Wen, **Yuanchun Li\***, Zunshuai Zhang, Shiqi Jiang, Xiaozhou Ye, Ye Ouyang, Yaqin Zhang, Yunxin Liu. "AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments". In Proceedings of the 29th Annual International Conference on Mobile Computing And Networking. (MobiCom 2023)
 
 ## 2022
 
+<a name="MobiCom22"></a>
+-   Jinrui Zhang, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Ting Cao, **Yuanchun Li**, Yaoxue Zhang, Yunxin Liu. "MobiDepth: real-time depth estimation using on-device dual cameras". In Proceedings of the 28th Annual International Conference on Mobile Computing And Networking. (MobiCom 2022)
 <a name="MobiSys22"></a>
-- Jaemin Shin, Yuanchun Li, Yunxin Liu, and Sung-Ju Lee. "FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients". In The 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys ’22),
+-   Jaemin Shin, **Yuanchun Li\***, Yunxin Liu, and Sung-Ju Lee. "FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients". In The 20th Annual International Conference on Mobile Systems, Applications and Services (MobiSys 2022)
 <a name="ICLR22"></a>
--   Divyam Madaan, Jaehong Yoon, **Yuanchun Li**, Yunxin Liu, Sung Ju Hwang. "Representational Continuity for Unsupervised Continual Learning". International Conference on Learning Representations (ICLR) 2022 (Oral presentation)
+-   Divyam Madaan, Jaehong Yoon, **Yuanchun Li**, Yunxin Liu, Sung Ju Hwang. "Representational Continuity for Unsupervised Continual Learning". International Conference on Learning Representations (ICLR 2022 Oral)
 <a name="ICSE22d"></a>
 -   Weixiang Yan<sup>(s)</sup>, **Yuanchun Li**. “WhyGen: Explaining ML-powered Code Generation by Referring to Training Examples”. In Proceedings of the 2022 IEEE/ACM 44th International Conference on Software Engineering. (ICSE 2022 Demo)
 <a name="ICSE22"></a>
