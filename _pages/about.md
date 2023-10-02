@@ -12,11 +12,13 @@ I am currently an Assistant Researcher at the [Institute for AI Industry Researc
 
 My research interest lies in the area of **Edge Systems/Applications with AI**.
 I’ve published in premier venues of mobile computing, artificial intelligence, and software engineering, including a best paper nomination in UbiComp 2016 and a best paper in IS-EUD 2017. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
-I'm recently passionate about building **EdgeLLM** (large language models at the edge) and **MobileVPA** (mobile virtual personal agents) powered by EdgeLLM. 
+
+I'm recently enthusiastic about building **EdgeLLM** (large language models at the edge) and **MobileVPA** (mobile virtual personal agents) powered by EdgeLLM. 
+
+[Recent News of My Team](/news/)
 
 <p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1029/1565.htm'>PostDocs</a>, <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1028/1566.htm'>research engineers</a>, and <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1030/1564.htm'>interns</a>. Please feel free to contact me if you are interested.</p>
 
-[Recent News](/news/)
     
 ## Research Summary
 
