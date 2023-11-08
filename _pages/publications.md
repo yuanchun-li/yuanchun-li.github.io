@@ -13,6 +13,10 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 ## 2023
 
+<a name="TMC23b"></a>
+-  Yuanzhe Li, Shangguang Wang, **Yuanchun Li**, Ao Zhou, Mengwei Xu, Xiao Ma, Yunxin Liu. "Seamless Cross-Edge Service Migration for Real-Time Rendering Applications". IEEE Transactions on Mobile Computing (TMC)
+<a name="GreenCom23"></a>
+-  Yixuan Li, Qirui Yang, Hao Wen, Huiwen Zheng, Weimin Liu, Hui Li, **Yuanchun Li\*** and Yunxin Liu. "Retrieval-based Battery Degradation Prediction for Battery Energy Storage System Operations". IEEE GreenCom 2023.
 <a name="MM23"></a>
 -   Yizhen Yuan, Rui Kong, Shenghao Xie, **Yuanchun Li\***, Yunxin Liu. "PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification". ACM Multimedia. (MM 2023)
 <a name="TMC23"></a>
