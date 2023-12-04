@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- 📢 **2023/11** -- Two papers "AutoDroid: LLM-powered Task Automation in Android", "FlexNN: Efficient and Adaptive DNN Inference on  Memory-Constrained Edge Devices" are conditionally accepted to MobiCom‘24! The former is our first work on LLM-powered mobile agent. Kudos to [Hao Wen](#), [Xiangyu Li](#), and the team!
 - 📢 **2023/07** -- Paper "PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification" is accepted to ACM MM‘23! This is the first backdoor attack against DNN models without model modification. Congratulations to [Yizhen Yuan](https://xaiveryuan.github.io) and [Rui Kong](https://rui-kong.github.io/)!
 - 📢 **2023/07** -- Paper "HiMoDepth: Efficient Training-free High-resolution On-device Depth Perception" is accepted to the IEEE Transactions on Mobile Computing (TMC), Paper "Testing and Enhancing the Robustness of Federated Learning System against Realistic Data Corruption" and "ReSPlay: Improving Cross-Platform Record-and-Replay with GUI Sequence Matching" are accepted to ISSRE 2023. Congratulations to Jinrui Zhang, Chen Yang, Shaokun Zhang, and coauthors!
 - 📢 **2023/03** -- Our paper "ConvReLU++: Reference-based Lossless Acceleration of Conv-ReLU Operations on Mobile CPU" is conditionally accepted to MobiSys 2023! Congratulations to [Rui Kong](https://rui-kong.github.io/) and [Yizhen Yuan](https://xaiveryuan.github.io) for their first top-conference paper!
