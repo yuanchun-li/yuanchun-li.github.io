@@ -13,7 +13,7 @@ I am currently an Assistant Researcher at [Institute for AI Industry Research (A
 My research interest lies in the area of **Edge Systems/Applications with AI**.
 I’ve published in premier venues of mobile computing, artificial intelligence, and software engineering, including a best paper nomination in UbiComp 2016 and a best paper in IS-EUD 2017. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
 
-I'm recently enthusiastic about building **EdgeLLM** (large language models at the edge) and **MobileVPA** (mobile virtual personal agents) powered by EdgeLLM. 
+I'm recently enthusiastic about building **EdgeLLM** (large language models at the edge) and **MobileAgent** (intelligent personal agents on mobile devices) powered by EdgeLLM. 
 
 [Recent News of My Team](/news/)
 
