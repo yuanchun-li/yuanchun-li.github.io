@@ -13,11 +13,11 @@ I am currently an Assistant Researcher at [Institute for AI Industry Research (A
 My research interest lies in the area of **Edge Systems/Applications with AI**.
 I’ve published in premier venues of mobile computing, artificial intelligence, and software engineering, including a best paper nomination in UbiComp 2016 and a best paper in IS-EUD 2017. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
 
-I'm recently enthusiastic about building **EdgeLLM** (large language models at the edge) and **MobileAgent** (intelligent personal agents on mobile devices) powered by EdgeLLM. 
+I'm recently enthusiastic about building **EdgeLLM** (large language models at the edge) and **MobileAgent** (intelligent personal agents on mobile devices) powered by EdgeLLM. Check out our [position & survey paper](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/).
 
 [Recent News of My Team](/news/)
 
-<p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1029/1565.htm'>PostDocs</a>, <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1028/1566.htm'>research engineers</a>, and <a style="color: #FFFFFF" href='https://air.tsinghua.edu.cn/info/1030/1564.htm'>interns</a>. Please feel free to contact me if you are interested.</p>
+<p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting PostDocs, research engineers, and interns. Please feel free to contact me if you are interested.</p>
 
     
 ## Summary of My Research
@@ -48,8 +48,8 @@ table th:nth-of-type(3) {
   - Diverse and dynamic data distribution ([UbiComp21](/publications/#UbiComp21), [ICLR22](/publications/#ICLR22))
   - Data and model privacy ([FSE21](/publications/#FSE21), [UbiComp21](/publications/#UbiComp21), [ISSTA21](/publications/#ISSTA21))
 - Building Intelligent Virtual Personal Agent
-  - UI-grounded mobile task automation ([ICSE17](/publications/#ICSE17), [ASE19](/publications/#ASE19), [arxiv](https://arxiv.org/abs/2308.15272))
+  - UI-grounded mobile task automation ([ICSE17](/publications/#ICSE17), [ASE19](/publications/#ASE19), [MobiCom24](https://arxiv.org/abs/2308.15272))
   - On-device data management & analytics ([UbiComp17a](/publications/#UbiComp17a), [BigData18](/publications/#BigData18))
-  - EdgeLLM ([arxiv](https://arxiv.org/abs/2308.15030))
+  - Lightweight LLM at the edge ([arxiv](https://arxiv.org/abs/2308.15030))
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
