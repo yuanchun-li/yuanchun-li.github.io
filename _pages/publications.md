@@ -11,12 +11,26 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 <!-- (* indicates co-primary and/or corresponding author. <sup>(s)</sup> represents the students/interns advised by me.) -->
 
+## 2024
+
+<a name="survey24a"></a>
+-   **Yuanchun Li**, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu. “Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security”. The Web Conference. [[arxiv]](https://arxiv.org/abs/2401.05459)
+<a name="WWW24"></a>
+-   Jinliang Yuan, Shangguang Wang, Hongyu Li, Daliang Xu, **Yuanchun Li**, Mengwei Xu, Xuanzhe Liu. “Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs”. The Web Conference. (WWW 2024)
+<a name="MobiCom24b"></a>
+-   Xiangyu Li, **Yuanchun Li**, Yuanzhe Li, Ting Cao, and Yunxin Liu. “FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices”. In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking. (MobiCom 2024)
+<a name="MobiCom24a"></a>
+-   Hao Wen, **Yuanchun Li**, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu. "AutoDroid: LLM-powered Task Automation in Android". In Proceedings of the 30th Annual International Conference On
+Mobile Computing And Networking. (MobiCom 2024)
+<a name="MobiSys23"></a>
+-   Fucheng Jia, Shiqi Jiang, Ting Cao, Wei Cui, Tianrui Xia, Xu Cao, **Yuanchun Li**, Qipeng Wang, Deyu Zhang, Ju Ren, Yunxin Liu, Lili Qiu, Mao Yang. "Empowering In-Browser Deep Learning Inference on Edge Through Just-In-Time Kernel Optimization". In Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2024)
+
 ## 2023
 
 <a name="TMC23b"></a>
 -  Yuanzhe Li, Shangguang Wang, **Yuanchun Li**, Ao Zhou, Mengwei Xu, Xiao Ma, Yunxin Liu. "Seamless Cross-Edge Service Migration for Real-Time Rendering Applications". IEEE Transactions on Mobile Computing (TMC)
 <a name="GreenCom23"></a>
--  Yixuan Li, Qirui Yang, Hao Wen, Huiwen Zheng, Weimin Liu, Hui Li, **Yuanchun Li\*** and Yunxin Liu. "Retrieval-based Battery Degradation Prediction for Battery Energy Storage System Operations". IEEE GreenCom 2023.
+-  Yixuan Li, Qirui Yang, Hao Wen, Huiwen Zheng, Weimin Liu, Hui Li, **Yuanchun Li\*** and Yunxin Liu. "Retrieval-based Battery Degradation Prediction for Battery Energy Storage System Operations". IEEE GreenCom 2023. (**Distinguished Paper Award**)
 <a name="MM23"></a>
 -   Yizhen Yuan, Rui Kong, Shenghao Xie, **Yuanchun Li\***, Yunxin Liu. "PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification". ACM Multimedia. (MM 2023)
 <a name="TMC23"></a>
