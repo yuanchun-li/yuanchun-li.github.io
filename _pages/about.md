@@ -20,7 +20,7 @@ I'm recently enthusiastic about building **EdgeLLM** (large language models at t
 ## Recent News
 
 - 📢 **2024/03** -- Our group won the **First Prize** in AIR Winter Camp 2024. Congrats to winning team members Shanhui Zhao, [Hao Wen](https://wenh18.github.io/), Wenjie Du and Cheng Liang!
-- 📢 **2024/03** -- One paper got accepted to ACM MobiSys 2024: "Empowering In-Browser Deep Learning Inference on Edge Through Just-In-Time Kernel Optimization". Congrats to all collaborators!
+- 📢 **2024/03** -- One paper got accepted to **ACM MobiSys 2024**: "Empowering In-Browser Deep Learning Inference on Edge Through Just-In-Time Kernel Optimization". Congrats to all collaborators!
 - 📢 **2024/02** -- We are hosting a workshop on edge foundation models ([EdgeFM 2024](https://edgefm.github.io/)) in Tokyo, Japan, Co-located with [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/). Please consider submitting your work and joining us in person!
 - 📢 **2024/01** -- Our position & survey paper on mobile LLM agents "Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security" was released. Feeling excited to work in this new area! [[arXiv]](https://arxiv.org/abs/2401.05459), [[GitHub]](https://github.com/MobileLLM/Personal_LLM_Agents_Survey), [[机器之心报道]](https://mp.weixin.qq.com/s/JYB4BzsXhWF8pEUUkvn_GQ)
 - 📢 **2023/12** -- Our paper "Retrieval-based Battery Degradation Prediction for Battery Energy Storage System Operations" got a **Best Paper Award** in IEEE GreenCom 2023. Thanks and congratulations to our awesome intern [Yixuan Li](#) and partners at [GDS](https://www.gds-services.com/en/)!

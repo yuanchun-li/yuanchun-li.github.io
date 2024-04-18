@@ -14,7 +14,7 @@ This list may be incomplete since it only includes the papers that lie in my res
 ## 2024
 
 <a name="survey24a"></a>
--   **Yuanchun Li**, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu. “Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security”. The Web Conference. [[arxiv]](https://arxiv.org/abs/2401.05459)
+-   **Yuanchun Li**, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu. “Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security”. [[arxiv]](https://arxiv.org/abs/2401.05459)
 <a name="WWW24"></a>
 -   Jinliang Yuan, Shangguang Wang, Hongyu Li, Daliang Xu, **Yuanchun Li**, Mengwei Xu, Xuanzhe Liu. “Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs”. The Web Conference. (WWW 2024)
 <a name="MobiCom24b"></a>
