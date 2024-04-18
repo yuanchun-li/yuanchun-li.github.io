@@ -46,7 +46,7 @@ table th:nth-of-type(3) {
 <!-- CCF-A badge [![CCF-A](https://img.shields.io/badge/CCF-A-brightgreen.svg)](#) -->
 
 - Improving Edge AI Efficiency
-  - Systems optimization for AI inference/training ([MobiSys22](/publications/#MobiSys22), [MobiSys23](/publications/#MobiSys23)), [MobiCom24b](/publications/#MobiCom24))
+  - Systems optimization for AI inference/training ([MobiSys22](/publications/#MobiSys22), [MobiSys23](/publications/#MobiSys23), [MobiCom24b](/publications/#MobiCom24), [MobiSys24](/publications/#MobiSys24))
   - Efficient model customization for edge ([MobiCom23](/publications/#MobiCom23), [arxiv](https://arxiv.org/abs/2308.15003v1))
   - Efficient mobile AI applications ([MobiCom21](/publications/#MobiCom21), [MobiCom22](/publications/#MobiCom22))
 - Enhancing Edge AI Reliability

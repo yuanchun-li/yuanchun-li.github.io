@@ -22,7 +22,7 @@ This list may be incomplete since it only includes the papers that lie in my res
 <a name="MobiCom24a"></a>
 -   Hao Wen, **Yuanchun Li**, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu. "AutoDroid: LLM-powered Task Automation in Android". In Proceedings of the 30th Annual International Conference On
 Mobile Computing And Networking. (MobiCom 2024)
-<a name="MobiSys23"></a>
+<a name="MobiSys24"></a>
 -   Fucheng Jia, Shiqi Jiang, Ting Cao, Wei Cui, Tianrui Xia, Xu Cao, **Yuanchun Li**, Qipeng Wang, Deyu Zhang, Ju Ren, Yunxin Liu, Lili Qiu, Mao Yang. "Empowering In-Browser Deep Learning Inference on Edge Through Just-In-Time Kernel Optimization". In Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2024)
 
 ## 2023
