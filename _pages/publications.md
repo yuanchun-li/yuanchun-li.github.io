@@ -13,10 +13,12 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 ## 2024
 
+<a name="acl24"></a>
+-  Rui Kong, Yuanchun Li, qingtian feng, Weijun Wang, Xiaozhou Ye, Ye Ouyang, Linghe Kong, Yunxin Liu. "SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget". The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024). [[arxiv]](https://arxiv.org/abs/2308.15030)
 <a name="survey24a"></a>
 -   **Yuanchun Li**, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu. “Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security”. [[arxiv]](https://arxiv.org/abs/2401.05459)
 <a name="WWW24"></a>
--   Jinliang Yuan, Shangguang Wang, Hongyu Li, Daliang Xu, **Yuanchun Li**, Mengwei Xu, Xuanzhe Liu. “Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs”. The Web Conference. (WWW 2024)
+-   Jinliang Yuan, Shangguang Wang, Hongyu Li, Daliang Xu, **Yuanchun Li**, Mengwei Xu, Xuanzhe Liu. "Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs". The Web Conference. (WWW 2024)
 <a name="MobiCom24b"></a>
 -   Xiangyu Li, **Yuanchun Li**, Yuanzhe Li, Ting Cao, and Yunxin Liu. “FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices”. In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking. (MobiCom 2024)
 <a name="MobiCom24a"></a>

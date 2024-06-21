@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+- 📢 **2024/06** -- In collaboration with Huawei, we published the [white paper on AI Phone](https://developer.huawei.com/consumer/cn/doc/guidebook/terminals-ai-0000001929853698) (in Chinese).
+- 📢 **2024/06** -- Successfully hosted the 1st workshop on edge foundation models ([EdgeFM 2024](https://edgefm.github.io/)) in Tokyo! See you next year!
+- 📢 **2024/05** -- Paper "SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget" accepted to **ACL 2024** (main track). Congrats to [Rui Kong](https://rui-kong.github.io/) and others!
 - 📢 **2024/03** -- Our group won the **First Prize** in AIR Winter Camp 2024. Congrats to winning team members Shanhui Zhao, [Hao Wen](https://wenh18.github.io/), Wenjie Du and Cheng Liang!
 - 📢 **2024/03** -- One paper got accepted to **ACM MobiSys 2024**: "Empowering In-Browser Deep Learning Inference on Edge Through Just-In-Time Kernel Optimization". Congrats to all collaborators!
 - 📢 **2024/02** -- We are hosting a workshop on edge foundation models ([EdgeFM 2024](https://edgefm.github.io/)) in Tokyo, Japan, Co-located with [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/). Please consider submitting your work and joining us in person!
