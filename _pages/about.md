@@ -57,6 +57,6 @@ table th:nth-of-type(3) {
 - Building Mobile LLM Agents
   - UI-grounded mobile task automation ([ICSE17](/publications/#ICSE17), [ASE19](/publications/#ASE19), [MobiCom24a](/publications/#MobiCom24a))
   - On-device data management & analytics ([UbiComp17a](/publications/#UbiComp17a), [BigData18](/publications/#BigData18))
-  - Lightweight LLM at the edge ([ACL24](/publications/#ACL24))
+  - Lightweight LLM at the edge ([ACL24](/publications/#ACL24), [arxiv](https://arxiv.org/abs/2405.17741))
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
