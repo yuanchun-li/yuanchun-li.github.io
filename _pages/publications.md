@@ -14,7 +14,7 @@ This list may be incomplete since it only includes the papers that lie in my res
 ## 2024
 
 <a name="acl24"></a>
--  Rui Kong, Yuanchun Li, qingtian feng, Weijun Wang, Xiaozhou Ye, Ye Ouyang, Linghe Kong, Yunxin Liu. "SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget". The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024). [[arxiv]](https://arxiv.org/abs/2308.15030)
+-  Rui Kong, **Yuanchun Li\***, Qingtian Feng, Weijun Wang, Xiaozhou Ye, Ye Ouyang, Linghe Kong, Yunxin Liu. "SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget". The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024). [[arxiv]](https://arxiv.org/abs/2308.15030)
 <a name="survey24a"></a>
 -   **Yuanchun Li**, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu. “Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security”. [[arxiv]](https://arxiv.org/abs/2401.05459)
 <a name="WWW24"></a>
@@ -22,7 +22,7 @@ This list may be incomplete since it only includes the papers that lie in my res
 <a name="MobiCom24b"></a>
 -   Xiangyu Li, **Yuanchun Li**, Yuanzhe Li, Ting Cao, and Yunxin Liu. “FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices”. In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking. (MobiCom 2024)
 <a name="MobiCom24a"></a>
--   Hao Wen, **Yuanchun Li**, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu. "AutoDroid: LLM-powered Task Automation in Android". In Proceedings of the 30th Annual International Conference On
+-   Hao Wen, **Yuanchun Li\***, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu. "AutoDroid: LLM-powered Task Automation in Android". In Proceedings of the 30th Annual International Conference On
 Mobile Computing And Networking. (MobiCom 2024)
 <a name="MobiSys24"></a>
 -   Fucheng Jia, Shiqi Jiang, Ting Cao, Wei Cui, Tianrui Xia, Xu Cao, **Yuanchun Li**, Qipeng Wang, Deyu Zhang, Ju Ren, Yunxin Liu, Lili Qiu, Mao Yang. "Empowering In-Browser Deep Learning Inference on Edge Through Just-In-Time Kernel Optimization". In Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2024)
