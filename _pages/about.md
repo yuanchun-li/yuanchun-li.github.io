@@ -48,16 +48,15 @@ table th:nth-of-type(3) {
 <!-- CCF-A badge [![CCF-A](https://img.shields.io/badge/CCF-A-brightgreen.svg)](#) -->
 
 - Improving Edge AI Efficiency
-  - Systems optimization for AI inference/training ([MobiSys22](/publications/#MobiSys22), [MobiSys23](/publications/#MobiSys23), [MobiCom24b](/publications/#MobiCom24), [MobiSys24](/publications/#MobiSys24))
-  - Efficient model customization for edge ([MobiCom23](/publications/#MobiCom23), [arxiv](https://arxiv.org/abs/2308.15003v1))
-  - Efficient mobile AI applications ([MobiCom21](/publications/#MobiCom21), [MobiCom22](/publications/#MobiCom22))
+  - Systems optimization for AI inference/training ([MobiSys22](/publications/#MobiSys22), [MobiSys23](/publications/#MobiSys23), [MobiCom24b](/publications/#MobiCom24), [MobiSys24](/publications/#MobiSys24), [ACL24](/publications/#ACL24)
+  - Efficient model customization for edge ([MobiCom23](/publications/#MobiCom23))
+  - Efficient mobile AI applications ([MobiCom21](/publications/#MobiCom21), [MobiCom22](/publications/#MobiCom22), [NSDI25](/publications/#NSDI25))
 - Enhancing Edge AI Reliability
   - Attacks & defense ([FSE20](/publications/#FSE20), [ICSE21](/publications/#ICSE21), [ICSE22](/publications/#ICSE22), [TOSEM23](/publications/#TOSEM23))
   - Diverse and dynamic data distribution ([UbiComp21](/publications/#UbiComp21), [ICLR22](/publications/#ICLR22))
   - Data and model privacy ([FSE21](/publications/#FSE21), [UbiComp21](/publications/#UbiComp21), [ISSTA21](/publications/#ISSTA21))
-- Building Mobile LLM Agents
-  - UI-grounded mobile task automation ([ICSE17](/publications/#ICSE17), [ASE19](/publications/#ASE19), [MobiCom24a](/publications/#MobiCom24a))
+- Building Mobile AI Agents
+  - UI-grounded mobile task automation ([ICSE17](/publications/#ICSE17), [ASE19](/publications/#ASE19), [MobiCom24a](/publications/#MobiCom24a), [MobiCom25](/publications/#MobiCom25))
   - On-device data management & analytics ([UbiComp17a](/publications/#UbiComp17a), [BigData18](/publications/#BigData18))
-  - Lightweight LLM at the edge ([ACL24](/publications/#ACL24), [arxiv](https://arxiv.org/abs/2405.17741))
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
