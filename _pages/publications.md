@@ -11,14 +11,31 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 <!-- (* indicates co-primary and/or corresponding author. <sup>(s)</sup> represents the students/interns advised by me.) -->
 
+## 2025
+
+<a name="mobicom25"></a>
+-  Shanhui Zhao, Hao Wen, Wenjie Du, Cheng Liang, Yunxin Liu, Xiaozhou Ye, Ye Ouyang, **Yuanchun Li\***. “LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps”. In Proceedings of the 31th Annual International Conference on Mobile Computing and Networking. (MobiCom 2025)
+<a name="nsdi25"></a>
+-  Weijun Wang, Liang Mi, Shaowei Cen, Haipeng Dai, Yuanchun Li, Xiaoming Fu, and Yunxin Liu. "Region-based Content Enhancement for Efficient Video Analytics at the Edge", accepted to appear in Proceedings of the 22nd USENIX Symposium on Networked Systems Design and Implementation, 2025. (NSDI 2025)
+
 ## 2024
 
+<a name="uist24"></a>
+-  Li Zhang, Shihe Wang, Xianqing Jia, Zhihan Zheng, Yunhe Yan, Longxi Gao, Yuanchun Li, Mengwei Xu. “LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation”. The ACM Symposium on User Interface Software and Technology (UIST 2024)
 <a name="acl24"></a>
 -  Rui Kong, **Yuanchun Li\***, Qingtian Feng, Weijun Wang, Xiaozhou Ye, Ye Ouyang, Linghe Kong, Yunxin Liu. "SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget". The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024). [[arxiv]](https://arxiv.org/abs/2308.15030)
+<a name="icpp24"></a>
+-  Hanfei Geng, Yi Sun, Yuanzhe Li, Jichao Leng, Xiangyu Zhu, Xianyuan Zhan, Yuanchun Li, Feng Zhao, Yunxin Liu. "TESLA: Thermally Safe, Load-Aware, and Energy-Efficient Cooling Control System for Data Centers". Proceedings of the 53rd International Conference on Parallel Processing (ICPP 2024).
 <a name="survey24a"></a>
 -   **Yuanchun Li**, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu. “Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security”. [[arxiv]](https://arxiv.org/abs/2401.05459)
 <a name="WWW24"></a>
 -   Jinliang Yuan, Shangguang Wang, Hongyu Li, Daliang Xu, **Yuanchun Li**, Mengwei Xu, Xuanzhe Liu. "Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs". The Web Conference. (WWW 2024)
+<a name="MobiArch24"></a>
+-   Huan Yang, Deyu Zhang, Yudong Zhao, Yuanchun Li, Yunxin Liu. "A First Look At Efficient And Secure On-Device LLM Inference Against KV Leakage". Proceedings of the 19th Workshop on Mobility in the Evolving Internet Architecture (MobiArch 2024)
+<a name="EdgeFM24a"></a>
+-   Jiacheng Liu, Wenxing Xu, Yuanchun Li. "ChainStream: A Stream-based LLM Agent Framework for Continuous Context Sensing and Sharing". Proceedings of the Workshop on Edge and Mobile Foundation Models (EdgeFM 2024)
+<a name="EdgeFM24b"></a>
+-   Yizhen Yuan, Rui Kong, Yuanchun Li, Yunxin Liu. "WiP: An On-device LLM-based Approach to Query Privacy Protection". Proceedings of the Workshop on Edge and Mobile Foundation Models (EdgeFM 2024)
 <a name="MobiCom24b"></a>
 -   Xiangyu Li, **Yuanchun Li**, Yuanzhe Li, Ting Cao, and Yunxin Liu. “FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices”. In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking. (MobiCom 2024)
 <a name="MobiCom24a"></a>
