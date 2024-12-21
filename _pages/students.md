@@ -13,11 +13,11 @@ I feel fortunate to have worked with many awesome students and interns. Some of 
 
 - [Hao Wen](https://wenh18.github.io/). PhD @ Tsinghua-AIR. Joint work: [[MobiCom23]](/publications/#MobiCom23), [[MobiCom24a]](/publications/#MobiCom24a), [[MobiCom25]](/publications/#MobiCom25), [[survey24a]](/publications/#survey24a).
 - [Yizhen Yuan](https://xaiveryuan.github.io). PhD @ Tsinghua-AIR. Joint work: [[MobiSys24]](/publications/#MobiSys24), [[MM23]](/publications/#MM23), [[EdgeFM24b]](/publications/#EdgeFM24b), [[survey24a]](/publications/#survey24a).
-- [Rui Kong](https://rui-kong.github.io/). PhD @ SJTU and Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiSys23]](/publications/#MobiSys23), [[MM23]](/publications/#MM23), [[ACL24]](/publications/#ACL24), [[EdgeFM24b]](/publications/#EdgeFM24b), [[arxiv24a]](/publications/#arxiv24a).
-- [Jiacheng Liu](#). Master @ BIT; Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiSys Workshop]](/publications/#MobiSys24), [[EdgeFM24a]](/publications/#EdgeFM24a), [[survey24a]](/publications/#survey24a).
+- [Rui Kong](https://rui-kong.github.io/). PhD @ SJTU and Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiSys23]](/publications/#MobiSys23), [[MM23]](/publications/#MM23), [[ACL24]](/publications/#ACL24), [[EdgeFM24b]](/publications/#EdgeFM24b), [[arxiv24a]](/publications/#arxiv24a), [[survey24a]](/publications/#survey24a).
+- [Jiacheng Liu](#). Master @ BIT; Long-term Intern @ Tsinghua-AIR. Joint work: [[EdgeFM24a]](/publications/#EdgeFM24a), [[survey24a]](/publications/#survey24a).
+- [Guohong Liu](#). PhD @ Tsinghua-AIR. Joint work: [[MobiCom24a]](/publications/#MobiCom24a), [[survey24a]](/publications/#survey24a).
 - [Shanhui Zhao](#). Undergraduate @ HIT; Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiCom25]](/publications/#MobiCom25), [[MobiCom24a]](/publications/#MobiCom24a).
-- [Guohong Liu](#). Undergraduate @ THU --> PhD @ Tsinghua-AIR. Joint work: [[MobiCom24a]](/publications/#MobiCom24a), [[survey24a]](/publications/#survey24a).
-- [Shizuo Tian](#). Undergraduate @ THU --> PhD @ Tsinghua-AIR.
+- [Shizuo Tian](#). Undergraduate @ THU.
 - [Borislav Pavlov](#). Master @ THU; Long-term Intern @ Tsinghua-AIR.
 - [Yi Sun](#). PhD @ Tsinghua-AIR. Joint work: [[ICPP24]](/publications/#ICPP24), [[survey24a]](/publications/#survey24a).
 - [Xiangyu Li](#). PhD @ Tsinghua-AIR. Joint work: [[MobiCom24b]](/publications/#MobiCom24b), [[survey24a]](/publications/#survey24a).
@@ -34,7 +34,7 @@ I feel fortunate to have worked with many awesome students and interns. Some of 
 - [Qingtian Feng](#). Undergraduate @ BUPT; Intern @ Tsinghua-AIR --> Master @ NTU. Joint work: [[ACL24]](/publications/#ACL24), [[arxiv24a]](/publications/#arxiv24a).
 - [Chen Tang](https://www.chentang.cc/). Master @ THU --> PhD @ CUHK.
 - [Wenxing Xu](#). Master @ BUPT; Intern @ Tsinghua-AIR. Joint work: [[EdgeFM24a]](/publications/#EdgeFM24a), [[survey24a]](/publications/#survey24a).
-- [Jialing Han](#). PhD @ PKU; Intern @ Tsinghua-AIR.
+- [Jialiang Han](#). PhD @ PKU; Intern @ Tsinghua-AIR.
 - [Naiyu Zheng](https://scholars.cityu.edu.hk/en/persons/naiyu-zheng(5eed5888-0e62-468b-82e8-a94fa4aed0e1).html). Undergraduate @ BUPT; Intern @ Tsinghua-AIR --> PhD @ CityU. Joint work: [[SANER23a]](/publications/#SANER23a), [[TMC24]](/publications/#TMC24).
 - [Qirui Yang](https://scholar.google.com/citations?user=gMtRZNQAAAAJ&hl=en). Undergraduate @ THU; Intern @ Tsinghua-AIR --> PhD @ HKUST. Joint work: [[GreenCom23]](/publications/#GreenCom23).
 - [Weidong Huang](#). Undergraduate @ BUAA; Intern @ Tsinghua-AIR.
@@ -43,10 +43,10 @@ I feel fortunate to have worked with many awesome students and interns. Some of 
 - [Zunshuai Zhang](#). Undergraduate @ Shanghai University; Intern @ Tsinghua-AIR. Joint work: [[MobiCom23]](/publications/#MobiCom23).
 - [Jaemin Shin](https://jaemin-shin.github.io/). PhD @ KAIST; Intern @ MSRA. Joint work: [[MobiSys22]](/publications/#MobiSys22).
 - [Weixiang Yan](https://weixiangyan.github.io/). Undergraduate @ BUPT --> Master @ UCSB -> Amazon (Palo Alto). Joint work: [[ICSE22d]](/publications/#ICSE22d).
-- [Shaokun Zhang](https://scholar.google.com/citations?user=wpKmLGwAAAAJ). PhD @ PKU --> Huawei. Joint work: [[ISSRE23b]](/publications/#ISSRE23b).
+- [Shaokun Zhang](https://scholar.google.com/citations?user=wpKmLGwAAAAJ). PhD @ PKU --> Huawei. Joint work: [[ISSRE23b]](/publications/#ISSRE23b), [[ISSRE21]](/publications/#ISSRE21).
 - [Chengxu Yang](https://lh-ycx.github.io/). PhD @ PKU; Intern @ MSRA --> Tencent. Joint work: [[FSE21]](/publications/#FSE21).
 - [Rongchun Yao](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjW4fKr6beKAxXnLEQIHVoWE64QFnoECB4QAQ&url=https%3A%2F%2Fcn.linkedin.com%2Fin%2Frongchun-yao-1a62301b9&usg=AOvVaw0UIXvFkkY_TP52aGeZraFm&opi=89978449). Master @ NJU; Intern @ MSRA --> Tencent. Joint work: [[TMC24]](/publications/#TMC24).
 - [Yuheng Huang](https://huangyuheng.org/). Undergraduate @ BUPT; Intern @ MSRA --> PhD @ The University of Tokyo. Joint work: [[TOSEM23]](/publications/#TOSEM23).
-- [Bingyan Liu](https://lebyni.github.io/). PhD @ PKU; Intern @ MSRA --> Associate Professor @ BUPT. Joint work: [[UbiComp22]](/publications/#UbiComp22).
-- [Ziqi Zhang](https://ziqi-zhang.github.io/). PhD @ PKU; Intern @ MSRA --> PostDoc @ UIUC. Joint work: [[ICSE23]](/publications/#ICSE23), [[FSE20]](/publications/#FSE20), [[ISSTA21]](/publications/#ISSTA21).
+- [Bingyan Liu](https://lebyni.github.io/). PhD @ PKU; Intern @ MSRA --> Associate Professor @ BUPT. Joint work: [[UbiComp22]](/publications/#UbiComp22), [[UbiComp21]](/publications/#UbiComp21), [[ICSE23]](/publications/#ICSE23), [[ICSE22]](/publications/#ICSE22), [[ISSTA21]](/publications/#ISSTA21)
+- [Ziqi Zhang](https://ziqi-zhang.github.io/). PhD @ PKU; Intern @ MSRA --> PostDoc @ UIUC. Joint work: [[ICSE23]](/publications/#ICSE23), [[ICSE22]](/publications/#ICSE22), [[FSE20]](/publications/#FSE20), [[ISSTA21]](/publications/#ISSTA21).
 
