@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor of [Institute for AI Industry Research (AIR)](http://air.tsinghua.edu.cn/). I received my PhD degree and Bachelor's degree in Computer Science, both from [Peking University](https://cs.pku.edu.cn/English/Home.htm). I had also worked as a Visiting PhD Student at [Carnegie Mellon University](https://hcii.cmu.edu/). Before joining AIR, I was a Senior Researcher in the [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at Microsoft Research Asia.
+I am currently an Assistant Professor of [Institute for AI Industry Research (AIR)](http://air.tsinghua.edu.cn/). 
+<!-- I received my PhD degree and Bachelor's degree in Computer Science, both from [Peking University](https://cs.pku.edu.cn/English/Home.htm). I had also worked as a Visiting PhD Student at [Carnegie Mellon University](https://hcii.cmu.edu/).  -->
+Before joining AIR, I was a Senior Researcher in the [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at Microsoft Research Asia.
 
-My research interest lies in the area of **Edge AI Systems/Applications**.
-I’ve published in premier venues of mobile computing, artificial intelligence, and software engineering, including a best paper nomination in UbiComp 2016, a best paper in IS-EUD 2017, and a best paper in GreenCom 2023. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.) in the area.
+My research interest is **mobile intelligence**.
+I’ve published in premier venues of mobile computing, artificial intelligence, and software engineering, including several award-winning papers in UbiComp, GreenCom, IS-EUD, etc. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.).
 
-I'm recently enthusiastic about building **EdgeLLM** (large language models at the edge) and **MobileAgent** (intelligent personal agents on mobile devices) powered by EdgeLLM. Check out our [position & survey paper](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/).
+I'm recently enthusiastic about building **Mobile Agents** (AI agents on mobile devices) powered by **on-device LLM**. Check out our [position & survey paper](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/).
 
 <p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting PostDocs, research engineers, and interns. Please feel free to contact me if you are interested.</p>
 
