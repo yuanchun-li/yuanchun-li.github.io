@@ -13,6 +13,10 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 ## 2025
 
+<a name="MobiSys25"></a>
+-  Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li*. “AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation”. In Proceedings of the 23rd ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2025)
+<a name="EuroSys25"></a>
+-  Liang Mi, Weijun Wang, Wenming Tu, Qingfeng He, Rui Kong, Xinyu Fang, Yazhu Dong, Yikang Zhang, Yuanchun Li, Meng Li, Haipeng Dai, Guihai Chen, Yunxin Liu. “Empower Vision Applications with LoRA LMM”. In Proceedings of The 20th ACM European Conference on Computer Systems. (EuroSys 2025)
 <a name="MobiCom25"></a>
 -  Shanhui Zhao, Hao Wen, Wenjie Du, Cheng Liang, Yunxin Liu, Xiaozhou Ye, Ye Ouyang, **Yuanchun Li\***. “LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps”. In Proceedings of the 31th Annual International Conference on Mobile Computing and Networking. (MobiCom 2025)
 <a name="NSDI25"></a>

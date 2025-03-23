@@ -11,25 +11,25 @@ redirect_from:
 
 I feel fortunate to have worked with many awesome students and interns. Some of them (who had worked closely with me for 6+ months) are:
 
-- [Hao Wen](https://wenh18.github.io/). PhD @ Tsinghua-AIR. Joint work: [[MobiCom23]](/publications/#MobiCom23), [[MobiCom24a]](/publications/#MobiCom24a), [[MobiCom25]](/publications/#MobiCom25), [[survey24a]](/publications/#survey24a).
+- [Hao Wen](https://wenh18.github.io/). PhD @ Tsinghua-AIR. Joint work: [[MobiCom23]](/publications/#MobiCom23), [[MobiCom24a]](/publications/#MobiCom24a), [[MobiCom25]](/publications/#MobiCom25), [[MobiSys25]](/publications/#MobiSys25), [[survey24a]](/publications/#survey24a).
 - [Yizhen Yuan](https://xaiveryuan.github.io). PhD @ Tsinghua-AIR. Joint work: [[MobiSys24]](/publications/#MobiSys23), [[MM23]](/publications/#MM23), [[EdgeFM24b]](/publications/#EdgeFM24b), [[survey24a]](/publications/#survey24a).
-- [Rui Kong](https://rui-kong.github.io/). PhD @ SJTU and Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiSys23]](/publications/#MobiSys23), [[MM23]](/publications/#MM23), [[ACL24]](/publications/#ACL24), [[EdgeFM24b]](/publications/#EdgeFM24b), [[arxiv24a]](/publications/#arxiv24a), [[survey24a]](/publications/#survey24a).
-- [Jiacheng Liu](#). Master @ BIT; Long-term Intern @ Tsinghua-AIR. Joint work: [[EdgeFM24a]](/publications/#EdgeFM24a), [[survey24a]](/publications/#survey24a).
+- [Rui Kong](https://rui-kong.github.io/). PhD @ SJTU; Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiSys23]](/publications/#MobiSys23), [[MM23]](/publications/#MM23), [[ACL24]](/publications/#ACL24), [[EdgeFM24b]](/publications/#EdgeFM24b), [[arxiv24a]](/publications/#arxiv24a), [[survey24a]](/publications/#survey24a), [[EuroSys25]](/publications/#EuroSys25).
+- [Jiacheng Liu](#). Master @ BIT; Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiSys25]](/publications/#MobiSys25), [[EdgeFM24a]](/publications/#EdgeFM24a), [[survey24a]](/publications/#survey24a).
 - [Guohong Liu](#). PhD @ Tsinghua-AIR. Joint work: [[MobiCom24a]](/publications/#MobiCom24a), [[survey24a]](/publications/#survey24a).
-- [Shanhui Zhao](#). Undergraduate @ HIT; Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiCom25]](/publications/#MobiCom25), [[MobiCom24a]](/publications/#MobiCom24a).
-- [Shizuo Tian](#). Undergraduate @ THU.
-- [Borislav Pavlov](#). Master @ THU; Long-term Intern @ Tsinghua-AIR.
+- [Shanhui Zhao](#). Undergraduate @ HIT; Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiCom25]](/publications/#MobiCom25), [[MobiCom24a]](/publications/#MobiCom24a), [[MobiSys25]](/publications/#MobiSys25).
+- [Shizuo Tian](#). Undergraduate @ THU. Joint work: [[MobiSys25]](/publications/#MobiSys25).
+- [Borislav Pavlov](#). Master @ THU; Long-term Intern @ Tsinghua-AIR. Joint work: [[MobiSys25]](/publications/#MobiSys25).
 - [Yi Sun](#). PhD @ Tsinghua-AIR. Joint work: [[ICPP24]](/publications/#ICPP24), [[survey24a]](/publications/#survey24a).
 - [Xiangyu Li](#). PhD @ Tsinghua-AIR. Joint work: [[MobiCom24b]](/publications/#MobiCom24b), [[survey24a]](/publications/#survey24a).
 - [Hanfei Geng](#). PhD @ Tsinghua-AIR. Joint work: [[ICPP24]](/publications/#ICPP24), [[survey24a]](/publications/#survey24a).
-- [Yixuan Li](#). Master @ BUPT; Long-term Intern @ Tsinghua-AIR. Joint work: [[GreenCom23]](/publications/#GreenCom23).
+- [Yixuan Li](#). Master @ BUPT; Long-term Intern @ Tsinghua-AIR. Joint work: [[GreenCom23]](/publications/#GreenCom23), [[MobiSys25]](/publications/#MobiSys25).
 - [Zihao Zheng](#). Master @ PKU; Intern @ Tsinghua-AIR --> PhD @ PKU. Joint work: [[arxiv24c]](/publications/#arxiv24c)
 - [Jiayu Chen](#). Undergraduate @ UESTC; Intern @ Tsinghua-AIR --> PhD @ PKU. Joint work: [[arxiv24c]](/publications/#arxiv24c)
-- [Ge Chang](#). Undergraduate @ China University of Geosciences; Intern @ Tsinghua-AIR --> Master @ PKU.
+- [Ge Chang](#). Undergraduate @ China University of Geosciences; Intern @ Tsinghua-AIR --> Master @ PKU. Joint work: [[MobiSys25]](/publications/#MobiSys25).
 - [Qiyang Li](#). Undergraduate @ BUPT; Intern @ Tsinghua-AIR --> Baidu. Joint work: [[arxiv24a]](/publications/#arxiv24a)
-- [Wenjie Du](#). Undergraduate @ Sichuan University; Intern @ Tsinghua-AIR --> Master @ HKUST. Joint work: [[MobiCom25]](/publications/#MobiCom25).
-- [Xinyu Fang](#). Master @ JHU; Intern @ Tsinghua-AIR. Joint work: [[arxiv24a]](/publications/#arxiv24a).
-- [Yazhu Dong](#). Undergraduate @ BUPT; Intern @ Tsinghua-AIR Joint work: [[arxiv24a]](/publications/#arxiv24a).
+- [Wenjie Du](#). Undergraduate @ Sichuan University; Intern @ Tsinghua-AIR --> Master @ HKUST. Joint work: [[MobiCom25]](/publications/#MobiCom25), [[MobiSys25]](/publications/#MobiSys25).
+- [Xinyu Fang](#). Master @ JHU; Intern @ Tsinghua-AIR. Joint work: [[arxiv24a]](/publications/#arxiv24a), [[EuroSys25]](/publications/#EuroSys25).
+- [Yazhu Dong](#). Undergraduate @ BUPT; Intern @ Tsinghua-AIR Joint work: [[arxiv24a]](/publications/#arxiv24a), [[EuroSys25]](/publications/#EuroSys25).
 - [Hongming Wang](#). Undergraduate @ BUPT; Intern @ Tsinghua-AIR Joint work: [[arxiv23a]](/publications/#arxiv23a).
 - [Qingtian Feng](#). Undergraduate @ BUPT; Intern @ Tsinghua-AIR --> Master @ NTU. Joint work: [[ACL24]](/publications/#ACL24), [[arxiv24a]](/publications/#arxiv24a).
 - [Chen Tang](https://www.chentang.cc/). Master @ THU; Intern @ Tsinghua-AIR --> PhD @ CUHK.

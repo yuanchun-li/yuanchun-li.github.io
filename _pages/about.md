@@ -19,13 +19,11 @@ I'm recently enthusiastic about building **EdgeLLM** (large language models at t
 
 ## Recent News
 
+- 📢 **2025/03** -- Paper accepted to (**MobiSys 2025**): "AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation". Congratulations to [Hao Wen](https://wenh18.github.io/), Shizuo, Borislav and many others !
+- 📢 **2025/01** -- Paper accepted to (**EuroSys 2025**): "Empower Vision Applications with LoRA LMM". Congratulations [Liang Mi](#) and [Weijun Wang](https://weijunalexwang.github.io/) !
 - 📢 **2024/12** -- Paper accepted to (**MobiCom 2025**): "LLM-Explorer: Towards Efficient and Affordable LLM-based  Exploration for Mobile Apps". Congratulations [Shanhui Zhao](#) and [Hao Wen](https://wenh18.github.io/) !
 - 📢 **2024/09** -- Paper accepted to IEEE Transactions on Mobile Computing (**TMC**): "ADAWIFI, Collaborative WiFi Sensing for Cross-Environment Adaptation". Congratulations [Naiyu Zheng](https://scholars.cityu.edu.hk/en/persons/naiyu-zheng(5eed5888-0e62-468b-82e8-a94fa4aed0e1).html) !
 - 📢 **2024/08** -- Happy to receive the **Rising Star Award** of ACM SIGBED China!
-- 📢 **2024/07** -- Paper accepted to **NSDI 2025**: "Region-based Content Enhancement for Efﬁcient Video Analytics at the Edge". Congratulations to [Weijun Wang](https://weijunalexwang.github.io/) and Liang Mi !
-- 📢 **2024/07** -- Paper accepted to **UIST 2024**: “LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation”. Congratulations to [Li Zhang](https://lizhang20.github.io/) and other awesome collaborators at BUPT ! We also released a large-scale mobile GUI dataset [MobileViews](https://huggingface.co/datasets/mllmTeam/MobileViews).
-- 📢 **2024/06** -- In collaboration with Huawei, we published the [white paper on AI Phone](https://developer.huawei.com/consumer/cn/doc/guidebook/terminals-ai-0000001929853698) (in Chinese).
-- 📢 **2024/06** -- Successfully hosted the 1st workshop on edge foundation models ([EdgeFM 2024](https://edgefm.github.io/)) in Tokyo! See you next year!
 - [**More...**](/news/)
 
 ## Summary of My Research
@@ -56,7 +54,7 @@ table th:nth-of-type(3) {
   - Diverse and dynamic data distribution ([UbiComp21](/publications/#UbiComp21), [ICLR22](/publications/#ICLR22))
   - Data and model privacy ([FSE21](/publications/#FSE21), [UbiComp21](/publications/#UbiComp21), [ISSTA21](/publications/#ISSTA21))
 - Building Mobile AI Agents
-  - UI-grounded mobile task automation ([ICSE17](/publications/#ICSE17), [ASE19](/publications/#ASE19), [MobiCom24a](/publications/#MobiCom24a), [MobiCom25](/publications/#MobiCom25))
+  - UI-grounded mobile task automation ([ICSE17](/publications/#ICSE17), [ASE19](/publications/#ASE19), [MobiCom24a](/publications/#MobiCom24a), [MobiCom25](/publications/#MobiCom25)), [MobiSys25](/publications/#MobiSys25))
   - On-device data management & analytics ([UbiComp17a](/publications/#UbiComp17a), [BigData18](/publications/#BigData18))
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
