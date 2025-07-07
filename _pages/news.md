@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+- 📢 **2025/06** -- AutoDroid-V2 won the **Best Artifact Award** in MobiSys 2025!
+- 📢 **2025/03** -- Paper accepted to (**MobiSys 2025**): "AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation". Congratulations to [Hao Wen](https://wenh18.github.io/), Shizuo, Borislav and many others !
+- 📢 **2025/01** -- Paper accepted to (**EuroSys 2025**): "Empower Vision Applications with LoRA LMM". Congratulations [Liang Mi](#) and [Weijun Wang](https://weijunalexwang.github.io/) !
 - 📢 **2024/12** -- Paper accepted to (**MobiCom 2025**): "LLM-Explorer: Towards Efficient and Affordable LLM-based  Exploration for Mobile Apps". Congratulations [Shanhui Zhao](#) and [Hao Wen](https://wenh18.github.io/) !
 - 📢 **2024/09** -- Paper accepted to IEEE Transactions on Mobile Computing (**TMC**): "ADAWIFI, Collaborative WiFi Sensing for Cross-Environment Adaptation". Congratulations [Naiyu Zheng](https://scholars.cityu.edu.hk/en/persons/naiyu-zheng(5eed5888-0e62-468b-82e8-a94fa4aed0e1).html) !
 - 📢 **2024/08** -- Happy to receive the **Rising Star Award** of ACM SIGBED China!
