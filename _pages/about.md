@@ -13,7 +13,7 @@ I am currently an Assistant Professor of [Institute for AI Industry Research (AI
 Before joining AIR, I was a Senior Researcher in the [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/) at Microsoft Research Asia.
 
 My research interest is **mobile intelligence**.
-I’ve published in premier venues of mobile computing, artificial intelligence, and software engineering, including several award-winning papers in UbiComp, GreenCom, IS-EUD, etc. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [Humanoid](https://github.com/yzygitzh/Humanoid), etc.).
+I’ve published in premier venues of mobile computing, artificial intelligence, and software engineering, including several award-winning papers in UbiComp, MobiSys, etc. Some of the papers have become popular open-source tools ([DroidBot](https://github.com/honeynet/droidbot/), [PrivacyStreams](https://github.com/PrivacyStreams/), [AutoDroid](https://github.com/MobileLLM/AutoDroid), etc.).
 
 I'm recently enthusiastic about building **Mobile Agents** (AI agents on mobile devices) powered by **on-device LLM**. Check out our [position & survey paper](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/).
 
