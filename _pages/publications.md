@@ -20,11 +20,19 @@ This list may be incomplete since it only includes the papers that lie in my res
 <a name="MobiCom25"></a>
 -  Shanhui Zhao, Hao Wen, Wenjie Du, Cheng Liang, Yunxin Liu, Xiaozhou Ye, Ye Ouyang, **Yuanchun Li\***. “LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps”. In Proceedings of the 31th Annual International Conference on Mobile Computing and Networking. (MobiCom 2025)
 <a name="NSDI25"></a>
--  Weijun Wang, Liang Mi, Shaowei Cen, Haipeng Dai, Yuanchun Li, Xiaoming Fu, and Yunxin Liu. "Region-based Content Enhancement for Efficient Video Analytics at the Edge", accepted to appear in Proceedings of the 22nd USENIX Symposium on Networked Systems Design and Implementation, 2025. (NSDI 2025)
+-  Weijun Wang, Liang Mi, Shaowei Cen, Haipeng Dai, Yuanchun Li, Xiaoming Fu, and Yunxin Liu. "Region-based Content Enhancement for Efficient Video Analytics at the Edge". In Proceedings of the 22nd USENIX Symposium on Networked Systems Design and Implementation, 2025. (NSDI 2025)
+<a name="CVPR25"></a>
+-  Yuchen Sun, Shanhui Zhao, Tao Yu, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, and Chongyang Zhang. "GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration." 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+<a name="EMNLP25"></a>
+-  Yi Sun, Han Wang, Jiaqiang Li, Jiacheng Liu, Xiangyu Li, Hao Wen, Yizhen Yuan, Huiwen Zheng, Yan Liang, Yuanchun Li, Yunxin Liu. "An Empirical Study of LLM Reasoning Ability Under Strict Output Length Constraint" In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
+<a name="EMSOFT25"></a>
+- Jiale Chen, Duc Van Le, Yuanchun Li, Yunxin Liu, and Rui Tan. 2025. TimelyNet: Adaptive Neural Architecture for Autonomous Driving with Dynamic Deadline. ACM Trans. Embed. Comput. Syst. 24, 5s, Article 140 (September 2025) (EMSOFT 2025)
 <a name="TMC25a"></a>
 - Qipeng Wang, Shiqi Jiang, Yifan Yang, Ruiqi Liu, Yuanchun Li, Ting Cao, Xuanzhe Liu. "Efficient and Adaptive Diffusion Model Inference Through Lookup Table on Mobile Devices". IEEE Transactions on Mobile Computing (TMC)
-<a name="TC25"></a>
-- Rui Kong, Yuanchun Li, Weijun Wang, Linghe Kong, Yunxin Liu. "Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping". IEEE Transactions on Computers (TC)
+<a name="TMC25b"></a>
+- Xiang Wang, Lingxiao Ma, Ziyan Fu, Xiangyu Li, Yuanchun Li, Ju Ren. "Squeezer: Efficient Multi-DNN Inference for Edge Video Analytics via Cross-Model Scheduling," IEEE Transactions on Mobile Computing (TMC)
+<a name="TOC25"></a>
+- Rui Kong, Yuanchun Li, Weijun Wang, Linghe Kong, Yunxin Liu. "Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping". IEEE Transactions on Computers (TOC)
 
 ## 2024
 
