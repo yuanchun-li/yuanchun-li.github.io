@@ -17,7 +17,7 @@ I’ve published in premier venues of mobile computing, artificial intelligence,
 
 I'm recently enthusiastic about building **Mobile Agents** (AI agents on mobile devices) powered by **on-device LLM**. Check out our [position & survey paper](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/).
 
-<p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">For AIR Winter Camp Applicants: I'm sorry that I could not reply each application due to limited time. The slots in my group have been filled already. Instead, if you think you are ready for a long-term internship (3+ months, full-time, paid), welcome to email me with [long-term intern] in the email subject.</p>
+<p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">For AIR Winter Camp Applicants: The slots in my group have been filled already. I'm sorry that I could not reply each application due to limited time. Instead, if you think you are ready for a long-term internship (3+ months, full-time, paid), welcome to email me with [long-term intern] in the email subject.</p>
 
 <!-- <p style="border-radius: 5px; border:5px; border-style:solid; border-color:#841E46; padding: 1em; background-color: #841E46; color: #FFFFFF">Our team is recruiting PostDocs, research engineers, and interns. Please feel free to contact me if you are interested.</p> -->
 
