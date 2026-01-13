@@ -10,8 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
++ Best Artifact Award, ACM MobiSys 2025
 + ACM SIGBED China "Rising Star" Award, 2024
-+ Distinguished Paper Award, GreenCom 2023
++ Distinguished Paper Award, IEEE GreenCom 2023
 + 1st Prize of 2023 CAA Science and Technology Progress Award, Chinese Association of Automation (CAA), 2023
 + Best Paper Award, IS-EUD 2017
 + Best Paper Honorable Mention Award, UbiComp 2016 
