@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+- 📢 **2026/01** -- Two papers on GUI agents (ProRe and SMAN-Bench) accepted to **ICLR 2026**! Congratulations to Gaole and amazing collaborators at Microsoft and Xiaomi!
 - 📢 **2025/06** -- AutoDroid-V2 won the **Best Artifact Award** in MobiSys 2025!
 - 📢 **2025/03** -- Paper accepted to (**MobiSys 2025**): "AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation". Congratulations to [Hao Wen](https://wenh18.github.io/), Shizuo, Borislav and many others !
 - 📢 **2025/01** -- Paper accepted to (**EuroSys 2025**): "Empower Vision Applications with LoRA LMM". Congratulations [Liang Mi](#) and [Weijun Wang](https://weijunalexwang.github.io/) !
