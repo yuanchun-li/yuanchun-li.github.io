@@ -23,11 +23,11 @@ I'm recently enthusiastic about building **Mobile Agents** (AI agents on mobile 
 
 ## Recent News
 
-- 📢 **2026/01** -- Two papers on GUI agents (ProRe and SMAN-Bench) accepted to **ICLR 2026**! Congratulations to Gaole and collaborators at Microsoft and Xiaomi!
-- 📢 **2025/06** -- AutoDroid-V2 won the **Best Artifact Award** in MobiSys 2025!
-- 📢 **2025/03** -- Paper accepted to (**MobiSys 2025**): "AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation". Congratulations to [Hao Wen](https://wenh18.github.io/), Shizuo, Borislav and many others !
-- 📢 **2025/01** -- Paper accepted to (**EuroSys 2025**): "Empower Vision Applications with LoRA LMM". Congratulations [Liang Mi](#) and [Weijun Wang](https://weijunalexwang.github.io/) !
-- 📢 **2024/12** -- Paper accepted to (**MobiCom 2025**): "LLM-Explorer: Towards Efficient and Affordable LLM-based  Exploration for Mobile Apps". Congratulations [Shanhui Zhao](#) and [Hao Wen](https://wenh18.github.io/) !
+- 📢 **2026/04** -- Two papers accepted to **ACL 2026 Main**! Congratulations to Yizhen, Ge, Jinbo and Jiacheng!
+- 📢 **2026/04** -- Two papers accepted to **MobiSys 2026**! Congratulations to Shizuo, Guohong, and Hao!
+- 📢 **2026/04** -- One paper accepted to **MobiCom 2026**, and one paper published in **TMC 2026**! Congratulations to Gaole and Zhengyuan!
+- 📢 **2026/01** -- Two papers on GUI agents accepted to **ICLR 2026**! Congratulations to Gaole and Weikai!
+- 📢 **2025/09** -- One paper accepted to **EMNLP 2025**! Congratulations to Yi, Han, and Jiaqiang!
 - [**More...**](/news/)
 
 ## Summary of My Research

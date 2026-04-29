@@ -11,28 +11,49 @@ This list may be incomplete since it only includes the papers that lie in my res
 
 <!-- (* indicates co-primary and/or corresponding author. <sup>(s)</sup> represents the students/interns advised by me.) -->
 
+## 2026
+
+<a name="ACL26a"></a>
+- Yizhen Yuan, Rui Kong, Dongze Li, **Yuanchun Li\***, Yunxin Liu. "Benchmarking LLM's Capability in Reasoning over Conflicting Web References". The 64th Annual Meeting of the Association for Computational Linguistics. (ACL 2026 Main)
+<a name="ACL26b"></a>
+- Ge Chang, Jinbo Su, Jiacheng Liu, Pengfei Yang, Yuhao Shang, Huiwen Zheng, Hongli Ma, Yan Liang, **Yuanchun Li\***, Yunxin Liu. "Enhancing Agentic Textual Graph Retrieval with Synthetic Stepwise Supervision". The 64th Annual Meeting of the Association for Computational Linguistics. (ACL 2026 Main)
+<a name="MobiSys26a"></a>
+- Shizuo Tian, Hao Wen, Yuxuan Chen, Jiacheng Liu, Shanhui Zhao, Guohong Liu, Ju Ren, Yunxin Liu, **Yuanchun Li\***. "AgentProg: Empowering Long-Horizon GUI Agents with Program-guided Context Management". In Proceedings of the 24th ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2026)
+<a name="MobiSys26b"></a>
+- Guohong Liu, Jialei Ye, Jiacheng Liu, Wei Liu, Pengzhi Gao, Jian Luan, **Yuanchun Li\***, Yunxin Liu. "Mobile GUI Agents under Real-world Threats: Are We There Yet?". In Proceedings of the 24th ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2026)
+<a name="MobiCom26"></a>
+- Gaole Dai, Shiqi Jiang, Ting Cao, **Yuanchun Li**, Yuqing Yang, Rui Tan, Mo Li, Lili Qiu. "V-Droid: Advancing Mobile GUI Agent Through Generative Verifiers". In Proceedings of the 32nd Annual International Conference on Mobile Computing and Networking. (MobiCom 2026)
+<a name="ICLR26a"></a>
+- Gaole Dai, Shiqi Jiang, Ting Cao, Yuqing Yang, **Yuanchun Li**, Rui Tan, Mo Li, Lili Qiu. "ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration". International Conference on Learning Representations (ICLR 2026)
+<a name="ICLR26b"></a>
+- Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yunxin Liu, **Yuanchun Li**, Bin Wang, Bo An. "SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks". International Conference on Learning Representations (ICLR 2026)
+<a name="TMC26"></a>
+- Zhengyuan Zhang, Dong Zhao, Guanzhou Zhu, Xiangyu Li, Chunliang Li, Bingyan Liu, **Yuanchun Li**, Huadong Ma. "PFHAR: Practically Adopting Multi-Modal Foundation Model for Human Activity Recognition through Edge-cloud Collaborative Learning". IEEE Transactions on Mobile Computing (TMC 2026)
+
 ## 2025
 
 <a name="MobiSys25"></a>
--  Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, **Yuanchun Li\***. “AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation”. In Proceedings of the 23rd ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2025)
+-  Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, **Yuanchun Li\***. “AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation”. In Proceedings of the 23rd ACM International Conference on Mobile Systems, Applications, and Services. (MobiSys 2025, Best Artifact Award)
 <a name="EuroSys25"></a>
--  Liang Mi, Weijun Wang, Wenming Tu, Qingfeng He, Rui Kong, Xinyu Fang, Yazhu Dong, Yikang Zhang, Yuanchun Li, Meng Li, Haipeng Dai, Guihai Chen, Yunxin Liu. “Empower Vision Applications with LoRA LMM”. In Proceedings of The 20th ACM European Conference on Computer Systems. (EuroSys 2025)
+-  Liang Mi, Weijun Wang, Wenming Tu, Qingfeng He, Rui Kong, Xinyu Fang, Yazhu Dong, Yikang Zhang,  **Yuanchun Li**, Meng Li, Haipeng Dai, Guihai Chen, Yunxin Liu. “Empower Vision Applications with LoRA LMM”. In Proceedings of The 20th ACM European Conference on Computer Systems. (EuroSys 2025)
 <a name="MobiCom25"></a>
--  Shanhui Zhao, Hao Wen, Wenjie Du, Cheng Liang, Yunxin Liu, Xiaozhou Ye, Ye Ouyang, **Yuanchun Li\***. “LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps”. In Proceedings of the 31th Annual International Conference on Mobile Computing and Networking. (MobiCom 2025)
+-  Shanhui Zhao, Hao Wen, Wenjie Du, Cheng Liang, Yunxin Liu, Xiaozhou Ye, Ye Ouyang, **Yuanchun Li\***. “LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps”. In Proceedings of the 31st Annual International Conference on Mobile Computing and Networking. (MobiCom 2025)
 <a name="NSDI25"></a>
--  Weijun Wang, Liang Mi, Shaowei Cen, Haipeng Dai, Yuanchun Li, Xiaoming Fu, and Yunxin Liu. "Region-based Content Enhancement for Efficient Video Analytics at the Edge". In Proceedings of the 22nd USENIX Symposium on Networked Systems Design and Implementation, 2025. (NSDI 2025)
+-  Weijun Wang, Liang Mi, Shaowei Cen, Haipeng Dai, **Yuanchun Li**, Xiaoming Fu, and Yunxin Liu. "Region-based Content Enhancement for Efficient Video Analytics at the Edge". In Proceedings of the 22nd USENIX Symposium on Networked Systems Design and Implementation, 2025. (NSDI 2025)
+<a name="TMC25c"></a>
+-  Jinliang Yuan, Daliang Xu, Mengwei Xu, **Yuanchun Li**, Xuanzhe Liu, Yunhao Liu, Shangguang Wang. "Training with Integer-only Arithmetic: Energy-efficient Federated Learning with Mobile DSP Offloading". IEEE Transactions on Mobile Computing (TMC 2025)
 <a name="CVPR25"></a>
--  Yuchen Sun, Shanhui Zhao, Tao Yu, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, and Chongyang Zhang. "GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration." 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+-  Yuchen Sun, Shanhui Zhao, Tao Yu, Hao Wen, Samith Va, Mengwei Xu, **Yuanchun Li\***, and Chongyang Zhang\*. "GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration." 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
 <a name="EMNLP25"></a>
--  Yi Sun, Han Wang, Jiaqiang Li, Jiacheng Liu, Xiangyu Li, Hao Wen, Yizhen Yuan, Huiwen Zheng, Yan Liang, Yuanchun Li, Yunxin Liu. "An Empirical Study of LLM Reasoning Ability Under Strict Output Length Constraint" In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
+-  Yi Sun, Han Wang, Jiaqiang Li, Jiacheng Liu, Xiangyu Li, Hao Wen, Yizhen Yuan, Huiwen Zheng, Yan Liang, **Yuanchun Li\***, Yunxin Liu\*. "An Empirical Study of LLM Reasoning Ability Under Strict Output Length Constraint" In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
 <a name="EMSOFT25"></a>
-- Jiale Chen, Duc Van Le, Yuanchun Li, Yunxin Liu, and Rui Tan. 2025. TimelyNet: Adaptive Neural Architecture for Autonomous Driving with Dynamic Deadline. ACM Trans. Embed. Comput. Syst. 24, 5s, Article 140 (September 2025) (EMSOFT 2025)
+- Jiale Chen, Duc Van Le,  **Yuanchun Li**, Yunxin Liu, and Rui Tan. 2025. TimelyNet: Adaptive Neural Architecture for Autonomous Driving with Dynamic Deadline. ACM Trans. Embed. Comput. Syst. 24, 5s, Article 140 (September 2025) (EMSOFT 2025)
 <a name="TMC25a"></a>
-- Qipeng Wang, Shiqi Jiang, Yifan Yang, Ruiqi Liu, Yuanchun Li, Ting Cao, Xuanzhe Liu. "Efficient and Adaptive Diffusion Model Inference Through Lookup Table on Mobile Devices". IEEE Transactions on Mobile Computing (TMC)
+- Qipeng Wang, Shiqi Jiang, Yifan Yang, Ruiqi Liu,  **Yuanchun Li**, Ting Cao, Xuanzhe Liu. "Efficient and Adaptive Diffusion Model Inference Through Lookup Table on Mobile Devices". IEEE Transactions on Mobile Computing (TMC 2025)
 <a name="TMC25b"></a>
-- Xiang Wang, Lingxiao Ma, Ziyan Fu, Xiangyu Li, Yuanchun Li, Ju Ren. "Squeezer: Efficient Multi-DNN Inference for Edge Video Analytics via Cross-Model Scheduling," IEEE Transactions on Mobile Computing (TMC)
+- Xiang Wang, Lingxiao Ma, Ziyan Fu, Xiangyu Li,  **Yuanchun Li**, Ju Ren. "Squeezer: Efficient Multi-DNN Inference for Edge Video Analytics via Cross-Model Scheduling," IEEE Transactions on Mobile Computing (TMC 2025)
 <a name="TOC25"></a>
-- Rui Kong, Yuanchun Li, Weijun Wang, Linghe Kong, Yunxin Liu. "Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping". IEEE Transactions on Computers (TOC)
+- Rui Kong,  **Yuanchun Li\***, Weijun Wang, Linghe Kong\*, Yunxin Liu. "Serving MoE Models on Resource-constrained Edge Devices via Dynamic Expert Swapping". IEEE Transactions on Computers (TOC 2025)
 
 ## 2024
 
